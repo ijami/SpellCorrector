@@ -92,3 +92,5 @@ ENV/
 resources/
 data/
 /dictionary.txt
+/language_model.txt
+
