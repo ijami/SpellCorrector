@@ -93,4 +93,5 @@ resources/
 data/
 /dictionary.txt
 /language_model.txt
+*/.DS_Store
 

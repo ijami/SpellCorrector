@@ -19,13 +19,13 @@ class Corrector(Singleton):
         return set(deletes + transposes + replaces + inserts)
 
     def edit2(self, word):
-        return (e2 for e1 in self.edit1(word) for e2 in self.edit1(e1))
+        return set((e2 for e1 in self.edit1(word) for e2 in self.edit1(e1)))
 
     def known(self, words):
         return set(w for w in words if self.dictionary.contains(w))
 
     def condidates(self, word):
-        return self.known([word]) or self.known(self.edit1(word)) or self.known(self.edit2() or [word])
+        return self.known([word]) or self.known(self.edit1(word)) or self.known(self.edit2(word)) or [word]
 
     def score_function(self, word):
         return self.language_model.get_score(word)
