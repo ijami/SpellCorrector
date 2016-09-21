@@ -1,0 +1,6885 @@
+wrong word: هر
+recommended: هر
+expected: بی
+******************************************
+wrong word: بیعدالتی
+recommended: بیعدالتی
+expected: عدالتی
+******************************************
+wrong word: داردکه
+recommended: داردره
+expected: دارد
+******************************************
+wrong word: بکنیدکه
+recommended: بکنید
+expected: بکنید
+******************************************
+wrong word: اباغ
+recommended: اباغ
+expected: باغ
+******************************************
+wrong word: "
+recommended: و
+expected: ۱
+******************************************
+wrong word: "
+recommended: و
+expected: )
+******************************************
+wrong word: اکه
+recommended: که
+expected: که
+******************************************
+wrong word: آمریکابه
+recommended: آمریکا
+expected: آمریکا
+******************************************
+wrong word: درکتاب
+recommended: سرکتاب
+expected: کتاب
+******************************************
+wrong word: "
+recommended: و
+expected: (
+******************************************
+wrong word: "
+recommended: و
+expected: ۲
+******************************************
+wrong word: ا
+recommended: ا
+expected: )
+******************************************
+wrong word: ویژگیهاو
+recommended: ویژگیها
+expected: ویژگیها
+******************************************
+wrong word: جامعه
+recommended: جامعه
+expected: جامعۀ
+******************************************
+wrong word: سیلوراستاین
+recommended: سیلورتاین
+expected: سیلوراستالین
+******************************************
+wrong word: معاصر
+recommended: معاصر
+expected: معاصرش
+******************************************
+wrong word: قوه
+recommended: قوه
+expected: قوۀ
+******************************************
+wrong word: اَدمهایی
+recommended: آدمهایی
+expected: آدمهایی
+******************************************
+wrong word: زینتی
+recommended: زینتی
+expected: تزینتی
+******************************************
+wrong word: اپرنده
+recommended: پرنده
+expected: پرنده
+******************************************
+wrong word: حیواناتی
+recommended: حیواناتی
+expected: باحیواناتی
+******************************************
+wrong word: خصوصیت
+recommended: خصوصیت
+expected: خصوصیات
+******************************************
+wrong word: زاده
+recommended: زاده
+expected: زادۀ
+******************************************
+wrong word: در
+recommended: در
+expected: شدن
+******************************************
+wrong word: یک
+recommended: یک
+expected: دریک
+******************************************
+wrong word: طنزاَمیز
+recommended: طنزآمیز
+expected: طنزآمیز
+******************************************
+wrong word: نارسی
+recommended: نارسی
+expected: فارسی
+******************************************
+wrong word: ارزشرگذاری
+recommended: ارزشرگذاری
+expected: ارزشگذاری
+******************************************
+wrong word: فیالمَّل
+recommended: فیالمثل
+expected: فیالمَثَل
+******************************************
+wrong word: سناثی
+recommended: سنای
+expected: سنائی
+******************************************
+wrong word: عطْار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: بی
+recommended: بی
+expected: که
+******************************************
+wrong word: شناخت
+recommended: شناخت
+expected: بیشناخت
+******************************************
+wrong word: آناند
+recommended: آناند
+expected: آنان
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: انواع
+recommended: انواع
+expected: انواعِ
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: شناخت
+recommended: شناخت
+expected: بیشناخت
+******************************************
+wrong word: ادبیُات
+recommended: ادبیات
+expected: ادبیّات
+******************************************
+wrong word: سنتجش
+recommended: سنجش
+expected: سنجش
+******************************************
+wrong word: ارزشرگذاری
+recommended: ارزشرگذاری
+expected: ارزشگذاری
+******************************************
+wrong word: وکوچک
+recommended: کوچک
+expected: کوچک
+******************************************
+wrong word: ضعیف
+recommended: ضعیف
+expected: وضعیف
+******************************************
+wrong word: ادبیُات
+recommended: ادبیات
+expected: ادبیّات
+******************************************
+wrong word: احادیث
+recommended: احادیث
+expected: واحادیث
+******************************************
+wrong word: قصص
+recommended: قصص
+expected: قصصو
+******************************************
+wrong word: ادبیُات
+recommended: ادبیات
+expected: ادبیّات
+******************************************
+wrong word: عرفاشناسی
+recommended: معرفتشناسی
+expected: عرفانشناسی
+******************************************
+wrong word: شناختٍ
+recommended: شناخت
+expected: شناختِ
+******************************************
+wrong word: نارسی
+recommended: نارسی
+expected: فارسی
+******************************************
+wrong word: وگزینههای
+recommended: گزینهها
+expected: گزینههایِ
+******************************************
+wrong word: گنجٍ
+recommended: گنج
+expected: گنج
+******************************************
+wrong word: اینک
+recommended: اینک
+expected: واینک
+******************************************
+wrong word: مجموعهیٍ
+recommended: مجموعه
+expected: مجموعهیِ
+******************************************
+wrong word: برایٍ
+recommended: برای
+expected: برایِ
+******************************************
+wrong word: علاقهمندانٍ
+recommended: علاقهمندانٍ
+expected: علاقهمندانِ
+******************************************
+wrong word: رّصّد
+recommended: رصد
+expected: رَصَد
+******************************************
+wrong word: رشتهیٍ
+recommended: رشته
+expected: رشتهیِ
+******************************************
+wrong word: پیوند
+recommended: پیوند
+expected: پیونده
+******************************************
+wrong word: گذشتهیٍ
+recommended: گذشته
+expected: گذشتهی
+******************************************
+wrong word: اندیشهیٍ
+recommended: اندیشه
+expected: اندیشهیِ
+******************************************
+wrong word: رشتهی
+recommended: رشته
+expected: رشتهیِ
+******************************************
+wrong word: اعتلایٍ
+recommended: اعتلایی
+expected: اعتلایِ
+******************************************
+wrong word: موْثّر
+recommended: موثر
+expected: مؤثّر
+******************************************
+wrong word: همهی
+recommended: همه
+expected: همهیِ
+******************************************
+wrong word: آّنها
+recommended: آنها
+expected: آنها
+******************************************
+wrong word: یادآّوری
+recommended: یادآوری
+expected: یادآوری
+******************************************
+wrong word: کاستیهای
+recommended: کاستیها
+expected: کاستیهایِ
+******************************************
+wrong word: ما
+recommended: ما
+expected: برما
+******************************************
+wrong word: بهرهی
+recommended: بهره
+expected: بهرهیِ
+******************************************
+wrong word: همهی
+recommended: همه
+expected: همهیِ
+******************************************
+wrong word: وبه
+recommended: به
+expected: به
+******************************************
+wrong word: ق
+recommended: و
+expected: حق
+******************************************
+wrong word: ایپرده
+recommended: بیپرده
+expected: بیپرده
+******************************************
+wrong word: وسهروز
+recommended: بهروز
+expected: سهروز
+******************************************
+wrong word: و
+recommended: و
+expected: وبه
+******************************************
+wrong word: به
+recommended: به
+expected: شاه
+******************************************
+wrong word: شاعراز
+recommended: شاعران
+expected: شاعر
+******************************************
+wrong word: ود
+recommended: ود
+expected: خود
+******************************************
+wrong word: ود
+recommended: ود
+expected: خود
+******************************************
+wrong word: اعهار
+recommended: اظهار
+expected: اشعار
+******************************************
+wrong word: ه
+recommended: و
+expected: ؟
+******************************************
+wrong word: نگاسی
+recommended: نگاهی
+expected: نگاهی
+******************************************
+wrong word: کتابٍ
+recommended: کتاب
+expected: کتاب
+******************************************
+wrong word: آن
+recommended: آن
+expected: و
+******************************************
+wrong word: را
+recommended: را
+expected: آن
+******************************************
+wrong word: و
+recommended: و
+expected: را
+******************************************
+wrong word: به
+recommended: به
+expected: بست
+******************************************
+wrong word: گذات
+recommended: گذشت
+expected: گذاشت
+******************************************
+wrong word: وبر
+recommended: وبر
+expected: و
+******************************************
+wrong word: گشت
+recommended: گشت
+expected: برگشت
+******************************************
+wrong word: شاه
+recommended: شاه
+expected: از
+******************************************
+wrong word: ازاین
+recommended: ازای
+expected: این
+******************************************
+wrong word: رف
+recommended: رف
+expected: حرف
+******************************************
+wrong word: ننده
+recommended: کننده
+expected: خنده
+******************************************
+wrong word: واقعأً
+recommended: واقعاً
+expected: واقعاً
+******************************************
+wrong word: دراین
+recommended: براین
+expected: این
+******************************************
+wrong word: درو
+recommended: درو
+expected: دروغ
+******************************************
+wrong word: تاه
+recommended: تاه
+expected: کوتاه
+******************************************
+wrong word: جوای
+recommended: جای
+expected: جوابی
+******************************************
+wrong word: نخشم
+recommended: خشم
+expected: خشم
+******************************************
+wrong word: اورد
+recommended: مورد
+expected: آورد
+******************************************
+wrong word: وبه
+recommended: به
+expected: به
+******************************************
+wrong word: رسبد
+recommended: رسید
+expected: رسید
+******************************************
+wrong word: وئی
+recommended: وی
+expected: ولی
+******************************************
+wrong word: سلطان
+recommended: سلطان
+expected: سطلان
+******************************************
+wrong word: خندهانداءخت
+recommended: خندهانداءخت
+expected: خندهانداخت
+******************************************
+wrong word: وپاداشیهم
+recommended: واداشتهم
+expected: پاداشیهم
+******************************************
+wrong word: درصورتی
+recommended: درصورت
+expected: صورتی
+******************************************
+wrong word: اب
+recommended: اب
+expected: هر
+******************************************
+wrong word: بک
+recommended: بک
+expected: یک
+******************************************
+wrong word: میدادء
+recommended: میدهد
+expected: میداد
+******************************************
+wrong word: سرکلار
+recommended: سرکار
+expected: کلار
+******************************************
+wrong word: اسکر
+recommended: اسیر
+expected: اسکرین
+******************************************
+wrong word: جؤانی
+recommended: جهانی
+expected: جهانی
+******************************************
+wrong word: رکنول
+recommended: کنول
+expected: کنسول
+******************************************
+wrong word: انزگلیس
+recommended: انگلیس
+expected: انگلیس
+******************************************
+wrong word: درمشهد
+recommended: سرمشهد
+expected: مشهد
+******************************************
+wrong word: نخوشخدمتی
+recommended: نخوشخدمتی
+expected: خوشخدمتی
+******************************************
+wrong word: تقربٍ
+recommended: تقرب
+expected: تقرب
+******************************************
+wrong word: ازبادمجان
+recommended: بادمجان
+expected: بادمجان
+******************************************
+wrong word: را
+recommended: را
+expected: قاب
+******************************************
+wrong word: ند
+recommended: ند
+expected: را
+******************************************
+wrong word: یخ
+recommended: یخ
+expected: در
+******************************************
+wrong word: میویسد
+recommended: مینویسد
+expected: مینویسد
+******************************************
+wrong word: نمابش
+recommended: نمایش
+expected: نمایش
+******************************************
+wrong word: ه
+recommended: و
+expected: شده
+******************************************
+wrong word: رم
+recommended: رم
+expected: به
+******************************************
+wrong word: انجمن
+recommended: انجمن
+expected: انجمین
+******************************************
+wrong word: هذرمذدان
+recommended: هنرمندان
+expected: هنرمندان
+******************************************
+wrong word: ه
+recommended: و
+expected: به
+******************************************
+wrong word: کروتاه
+recommended: کوتاه
+expected: کوتاه
+******************************************
+wrong word: عطار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: شیوه
+recommended: شیوه
+expected: شیوۀ
+******************************************
+wrong word: سخخن
+recommended: سخن
+expected: سخن
+******************************************
+wrong word: عطَار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: مید
+recommended: مید
+expected: میدهد
+******************************************
+wrong word: عطَار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: مختارناهمه
+recommended: مختارنامه
+expected: مختارنامه
+******************************************
+wrong word: ۰۰
+recommended: و
+expected: …
+******************************************
+wrong word: غزلَیات
+recommended: غزلیات
+expected: غزلیّات
+******************************************
+wrong word: عطَار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: سیره
+recommended: سیره
+expected: سیرۀ
+******************************************
+wrong word: برگزیده
+recommended: برگزیده
+expected: برگزیدۀ
+******************************************
+wrong word: جلالالدین
+recommended: جمالالدین
+expected: جلالالدّین
+******************************************
+wrong word: عطَار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: عشقرا
+recommended: عشقها
+expected: عشق
+******************************************
+wrong word: عَار
+recommended: عیار
+expected: عطّار
+******************************************
+wrong word: عطَار
+recommended: عطار
+expected: عطّار
+******************************************
+wrong word: درگذشت
+recommended: درگذشت
+expected: گذشت
+******************************************
+wrong word: فتنه
+recommended: فتنه
+expected: فتنۀ
+******************************************
+wrong word: بشهاد
+recommended: شهاد
+expected: بشهادت
+******************************************
+wrong word: مت
+recommended: مت
+expected: خدمت
+******************************************
+wrong word: با
+recommended: با
+expected: و
+******************************************
+wrong word: انشاالله
+recommended: انشاءالله
+expected: انشاءالله
+******************************************
+wrong word: عبرتهای
+recommended: عبرتها
+expected: عبرتهائی
+******************************************
+wrong word: تعلیمهای
+recommended: تعلیمها
+expected: تعلیمهائی
+******************************************
+wrong word: مسابل
+recommended: مقابل
+expected: مسایل
+******************************************
+wrong word: اپن
+recommended: اپن
+expected: این
+******************************************
+wrong word: انفحار
+recommended: انفجار
+expected: انفجار
+******************************************
+wrong word: قرار
+recommended: قرار
+expected: را
+******************************************
+wrong word: تحلیلات
+recommended: تحصیلات
+expected: تحصیلات
+******************************************
+wrong word: بنشبینیم
+recommended: بنشینیم
+expected: بنشینیم
+******************************************
+wrong word: ستبگیریم
+recommended: بگیریم
+expected: بدستبگیریم
+******************************************
+wrong word: وانگیزه
+recommended: انگیزه
+expected: انگیزه
+******************************************
+wrong word: پامبر
+recommended: پیامبر
+expected: پیامبر
+******************************************
+wrong word: خد
+recommended: خد
+expected: بود
+******************************************
+wrong word: متگزار
+recommended: تگزار
+expected: خدمتگزار
+******************************************
+wrong word: معهد
+recommended: معهد
+expected: متعهد
+******************************************
+wrong word: برانگییخت
+recommended: برانگیخت
+expected: برانگیخت
+******************************************
+wrong word: تنهای
+recommended: تنهای
+expected: تنهائی
+******************************************
+wrong word: نمید
+recommended: نمید
+expected: نمیدهد
+******************************************
+wrong word: بود
+recommended: بود
+expected: و
+******************************************
+wrong word: هیوقت
+recommended: هیچوقت
+expected: هیچوقت
+******************************************
+wrong word: معدد
+recommended: معدد
+expected: متعدد
+******************************************
+wrong word: قوای
+recommended: هوای
+expected: قوائی
+******************************************
+wrong word: پری
+recommended: پری
+expected: پیری
+******************************************
+wrong word: شکنحجه
+recommended: شکنجه
+expected: شکنجه
+******************************************
+wrong word: برد
+recommended: برد
+expected: بین
+******************************************
+wrong word: ان
+recommended: ان
+expected: این
+******************************************
+wrong word: متگزار
+recommended: تگزار
+expected: خدمتگزار
+******************************************
+wrong word: خد
+recommended: خد
+expected: از
+******************************************
+wrong word: متگزار
+recommended: تگزار
+expected: خدمتگزار
+******************************************
+wrong word: حخود
+recommended: خود
+expected: خودش
+******************************************
+wrong word: مکند
+recommended: مکند
+expected: میکند
+******************************************
+wrong word: اشخاص
+recommended: اشخاص
+expected: اشخاصی
+******************************************
+wrong word: متاثر
+recommended: متاثر
+expected: متأثر
+******************************************
+wrong word: متاسف
+recommended: متاسف
+expected: متأسف
+******************************************
+wrong word: نشد۰
+recommended: نشد
+expected: نشد
+******************************************
+wrong word: مقاومتت
+recommended: مقاومتت
+expected: مقاومت
+******************************************
+wrong word: موحجب
+recommended: موجب
+expected: موجب
+******************************************
+wrong word: کرد
+recommended: کرد
+expected: کردند
+******************************************
+wrong word: لوزیون
+recommended: تلوزیون
+expected: تلویزیون
+******************************************
+wrong word: دیدبید
+recommended: دیدید
+expected: دیدید
+******************************************
+wrong word: بود۰
+recommended: بود
+expected: بود
+******************************************
+wrong word: ازکشته
+recommended: کشته
+expected: کشته
+******************************************
+wrong word: آشتینامهکه
+recommended: آشتینامهکه
+expected: آشتینامه
+******************************************
+wrong word: حسنزع
+recommended: حسن
+expected: حسن
+******************************************
+wrong word: شده
+recommended: شده
+expected: که
+******************************************
+wrong word: مردمان
+recommended: مردمان
+expected: مردان
+******************************************
+wrong word: آشتینِامه
+recommended: آشتینِامه
+expected: آشتینامه
+******************************************
+wrong word: رعا
+recommended: را
+expected: رعایت
+******************************************
+wrong word: ژیرا
+recommended: زیرا
+expected: زیرا
+******************************************
+wrong word: شام
+recommended: شام
+expected: را
+******************************************
+wrong word: راکارگزاران
+recommended: کارگزاران
+expected: کارگزاران
+******************************************
+wrong word: همینکه
+recommended: همینکه
+expected: همین
+******************************************
+wrong word: رت
+recommended: رت
+expected: رفت
+******************************************
+wrong word: را
+recommended: را
+expected: به
+******************************************
+wrong word: بهعراقیان
+recommended: بهرامیان
+expected: عراقیان
+******************************************
+wrong word: تاآنجاکه
+recommended: تاآنجاکه
+expected: تاآنجا
+******************************************
+wrong word: گفته
+recommended: گفته
+expected: گفتۀ
+******************************************
+wrong word: شیععلی
+recommended: شیرعلی
+expected: شیعۀعلی
+******************************************
+wrong word: رستادند
+recommended: فرستادند
+expected: فرستادند
+******************************************
+wrong word: بامعاویه
+recommended: معاویه
+expected: معاویه
+******************************************
+wrong word: بخوی
+recommended: بخشی
+expected: بخوبی
+******************************************
+wrong word: میدانستکه
+recommended: میدانستکه
+expected: میدانست
+******************************************
+wrong word: راکه
+recommended: راه
+expected: که
+******************************************
+wrong word: بزرگک
+recommended: بزرگ
+expected: بزرگ
+******************************************
+wrong word: گفتکه
+recommended: گفته
+expected: گفت
+******************************************
+wrong word: بازهریکه
+recommended: باریکه
+expected: بازهری
+******************************************
+wrong word: بهاو
+recommended: بهار
+expected: به
+******************************************
+wrong word: شد
+recommended: شد
+expected: او
+******************************************
+wrong word: بهبعد
+recommended: بهبود
+expected: بعد
+******************************************
+wrong word: بزرگک
+recommended: بزرگ
+expected: بزرگ
+******************************************
+wrong word: دمسال
+recommended: امسال
+expected: دهسال
+******************************************
+wrong word: بهمردم
+recommended: مردم
+expected: مردم
+******************************************
+wrong word: نتکوهش
+recommended: نکوهش
+expected: نکوهش
+******************************************
+wrong word: ریشخِند
+recommended: ریشخند
+expected: ریشخند
+******************************************
+wrong word: که
+recommended: که
+expected: کسی
+******************************************
+wrong word: با
+recommended: با
+expected: که
+******************************************
+wrong word: میپنداردکه
+recommended: میپندارد
+expected: میپندارد
+******************************************
+wrong word: فقصلی
+recommended: فصلی
+expected: فصلی
+******************************************
+wrong word: نصلهایی
+recommended: فصلهایی
+expected: فصلهایی
+******************************************
+wrong word: بهاین
+recommended: براین
+expected: این
+******************************************
+wrong word: کر
+recommended: کر
+expected: فکر
+******************************************
+wrong word: میافتدکه
+recommended: میافتد
+expected: میافتد
+******************************************
+wrong word: سالن
+recommended: سالن
+expected: یکسالن
+******************************************
+wrong word: شده
+recommended: شده
+expected: شدۀ
+******************************************
+wrong word: پرخطر
+recommended: پرخطر
+expected: خطر
+******************************************
+wrong word: کندکه
+recommended: کنده
+expected: کند
+******************************************
+wrong word: ااز
+recommended: از
+expected: از
+******************************************
+wrong word: ملاقات
+recommended: ملاقات
+expected: ملاقت
+******************************************
+wrong word: باهم
+recommended: باهم
+expected: هم
+******************************************
+wrong word: ایک
+recommended: این
+expected: یک
+******************************************
+wrong word: او
+recommended: او
+expected: از
+******************************************
+wrong word: موضوء
+recommended: موضوع
+expected: موضوع
+******************************************
+wrong word: است
+recommended: است
+expected: از
+******************************************
+wrong word: ازجمله
+recommended: ازجمله
+expected: جمله
+******************************************
+wrong word: گّرچه
+recommended: گرچه
+expected: گرچه
+******************************************
+wrong word: دوگَانگی
+recommended: دودانگی
+expected: دوگانگی
+******************************************
+wrong word: ادر
+recommended: ادر
+expected: در
+******************************************
+wrong word: گَیری
+recommended: گیری
+expected: گیری
+******************************************
+wrong word: دوگّانگی
+recommended: دودانگی
+expected: دوگانگی
+******************************************
+wrong word: طبقه
+recommended: طبقه
+expected: طبقۀ
+******************************************
+wrong word: بیداذدگَری
+recommended: بیدادگری
+expected: بیدادگری
+******************************************
+wrong word: ۰
+recommended: و
+expected: …
+******************************************
+wrong word: فلسفهٔ
+recommended: فلسفه
+expected: فلسفۀ
+******************************************
+wrong word: بودکه
+recommended: بودجه
+expected: بود
+******************************************
+wrong word: ار
+recommended: ار
+expected: که
+******************************************
+wrong word: باب
+recommended: باب
+expected: ارباب
+******************************************
+wrong word: رااهل
+recommended: نااهل
+expected: اهل
+******************************************
+wrong word: برعکس
+recommended: برعکس
+expected: عکس
+******************************************
+wrong word: توده
+recommended: توده
+expected: تودۀ
+******************************************
+wrong word: عوامٍ
+recommended: عوامل
+expected: عوامِ
+******************************************
+wrong word: عقیدهٔ
+recommended: عقیده
+expected: عقیدۀ
+******************************************
+wrong word: عامه
+recommended: عامه
+expected: عامۀ
+******************************************
+wrong word: ۹ا
+recommended: را
+expected: ۶۷
+******************************************
+wrong word: و
+recommended: و
+expected: در
+******************************************
+wrong word: درخور
+recommended: درخور
+expected: خور
+******************************************
+wrong word: یکث
+recommended: یک
+expected: یک
+******************************************
+wrong word: مسثلهی
+recommended: مسئله
+expected: مسئلهی
+******************************************
+wrong word: یککشور
+recommended: کشور
+expected: کشور
+******************************************
+wrong word: را
+recommended: را
+expected: به
+******************************************
+wrong word: بهعنوان
+recommended: بهعنوان
+expected: عنوان
+******************************************
+wrong word: گَرفت
+recommended: گرفت
+expected: گرفت
+******************************************
+wrong word: تاثیرگذار
+recommended: تاثیرگذار
+expected: تأثیرگذار
+******************************************
+wrong word: گَرفته
+recommended: گرفته
+expected: گرفته
+******************************************
+wrong word: جاممع
+recommended: جامع
+expected: جامع
+******************************************
+wrong word: تاریخی
+recommended: تاریخی
+expected: تارایخی
+******************************************
+wrong word: بهخصوص
+recommended: بهخصوص
+expected: خصوص
+******************************************
+wrong word: دار
+recommended: دار
+expected: دارند
+******************************************
+wrong word: استکه
+recommended: استه
+expected: است
+******************************************
+wrong word: مسثله
+recommended: مسئله
+expected: مسئله
+******************************************
+wrong word: نبودکه
+recommended: نبوده
+expected: نبود
+******************************************
+wrong word: چنانکه
+recommended: چنانکه
+expected: چنان
+******************************************
+wrong word: مسثلهی
+recommended: مسئله
+expected: مسئلهی
+******************************************
+wrong word: بچه
+recommended: بچه
+expected: بچۀ
+******************************************
+wrong word: بچه
+recommended: بچه
+expected: بچۀ
+******************************************
+wrong word: پتیم
+recommended: تیم
+expected: یتیم
+******************************************
+wrong word: تنبکک
+recommended: تنبک
+expected: تنبک
+******************************************
+wrong word: بیاید
+recommended: باید
+expected: ییاید
+******************************************
+wrong word: قِبر
+recommended: قبر
+expected: قبر
+******************************************
+wrong word: نخورده
+recommended: نخورده
+expected: نخوردۀ
+******************************************
+wrong word: توی
+recommended: توی
+expected: تو
+******************************************
+wrong word: تشکک
+recommended: تشکک
+expected: تشک
+******************************************
+wrong word: وکوزهاش
+recommended: کوزهای
+expected: کوزهاش
+******************************************
+wrong word: راگذاشت
+recommended: جاگذاشت
+expected: گذاشت
+******************************************
+wrong word: ابرویم
+recommended: برویم
+expected: برویم
+******************************************
+wrong word: قسم
+recommended: قسم
+expected: قسمت
+******************************************
+wrong word: گردی
+recommended: گردی
+expected: گری
+******************************************
+wrong word: درواقع
+recommended: واقع
+expected: واقع
+******************************************
+wrong word: آ
+recommended: آ
+expected: آن
+******************************************
+wrong word: یا
+recommended: یا
+expected: و
+******************************************
+wrong word: شور
+recommended: شور
+expected: و
+******************************************
+wrong word: و
+recommended: و
+expected: شور
+******************************************
+wrong word: سه
+recommended: سه
+expected: وسه
+******************************************
+wrong word: که
+recommended: که
+expected: هر
+******************************************
+wrong word: هریک
+recommended: هریک
+expected: یک
+******************************************
+wrong word: بیات
+recommended: بیات
+expected: بیاتِ
+******************************************
+wrong word: وسعت
+recommended: وسعت
+expected: سعت
+******************************************
+wrong word: ززیادتری
+recommended: زیادتر
+expected: زیادتری
+******************************************
+wrong word: به
+recommended: به
+expected: مد
+******************************************
+wrong word: مدگردیها
+recommended: مردیها
+expected: گردیها
+******************************************
+wrong word: نکته
+recommended: نکته
+expected: نکتۀ
+******************************************
+wrong word: موسیقّی
+recommended: موسیقی
+expected: موسیقی
+******************************************
+wrong word: قطعه
+recommended: قطعه
+expected: قطعۀ
+******************************************
+wrong word: مایه
+recommended: مایه
+expected: مایۀ
+******************************************
+wrong word: مایه
+recommended: مایه
+expected: مایۀ
+******************************************
+wrong word: بزگ
+recommended: بزرگ
+expected: بزرگ
+******************************************
+wrong word: نغمه
+recommended: نغمه
+expected: نغمۀ
+******************************************
+wrong word: تازکگًی
+recommended: تازگی
+expected: تازگی
+******************************************
+wrong word: میّکنند
+recommended: میکنند
+expected: میکنند
+******************************************
+wrong word: فریفته
+recommended: فریفته
+expected: فریفتۀ
+******************************************
+wrong word: نغمه
+recommended: نغمه
+expected: تغمه
+******************************************
+wrong word: بواسطه
+recommended: واسطه
+expected: بواسطۀ
+******************************************
+wrong word: اشاره
+recommended: اشاره
+expected: اشارهٔ
+******************************************
+wrong word: ازیک
+recommended: اریک
+expected: یک
+******************************************
+wrong word: لقص
+recommended: لقص
+expected: نقص
+******************************************
+wrong word: هدرحال
+recommended: درحال
+expected: کهدرحال
+******************************************
+wrong word: برکتاب
+recommended: سرکتاب
+expected: کتاب
+******************************************
+wrong word: آنهاچثم
+recommended: آنهایم
+expected: آنهاچشم
+******************************************
+wrong word: که
+recommended: که
+expected: در
+******************************************
+wrong word: درمتن
+recommended: درمان
+expected: متن
+******************************************
+wrong word: صحیه
+recommended: صحیه
+expected: صحیهٔ
+******************************************
+wrong word: مملّکتی
+recommended: مملکتی
+expected: مملکتی
+******************************************
+wrong word: دوره
+recommended: دوره
+expected: دورهٔ
+******************************************
+wrong word: گردریده
+recommended: گردیده
+expected: گردیده
+******************************************
+wrong word: چاپشدهٍ
+recommended: چاپیده
+expected: چاپشدهٔ
+******************************************
+wrong word: تماما
+recommended: تماما
+expected: تماماً
+******************************************
+wrong word: دارده
+recommended: دارد
+expected: دارد
+******************************************
+wrong word: پس
+recommended: پس
+expected: است
+******************************************
+wrong word: درخصوص
+recommended: برخصوص
+expected: خصوص
+******************************************
+wrong word: تعرف
+recommended: تعرف
+expected: تعریف
+******************************************
+wrong word: و
+recommended: و
+expected: به
+******************************************
+wrong word: بهعبارت
+recommended: بعبارت
+expected: عبارت
+******************************************
+wrong word: مقدمه
+recommended: مقدمه
+expected: مقدمهٔ
+******************************************
+wrong word: ویا
+recommended: وی
+expected: یا
+******************************************
+wrong word: چهارگانه
+recommended: چهارگانه
+expected: چهارگانهٔ
+******************************************
+wrong word: وحکم
+recommended: حکم
+expected: حکم
+******************************************
+wrong word: برمؤلف
+recommended: برملا
+expected: مؤلف
+******************************************
+wrong word: برمجلدات
+recommended: مجلدات
+expected: مجلدات
+******************************************
+wrong word: چهارگا
+recommended: چهارتا
+expected: چهارگانه
+******************************************
+wrong word: اینّکه
+recommended: اینکه
+expected: اینکه
+******************************************
+wrong word: همه
+recommended: همه
+expected: همهٔ
+******************************************
+wrong word: مقدمه
+recommended: مقدمه
+expected: مقدمهٔ
+******************************************
+wrong word: ونیز
+recommended: ونیز
+expected: نیز
+******************************************
+wrong word: رشته
+recommended: رشته
+expected: رشتهٔ
+******************************************
+wrong word: مخصوص
+recommended: مخصوص
+expected: مخصوصی
+******************************************
+wrong word: مقید
+recommended: مقید
+expected: مفید
+******************************************
+wrong word: که
+recommended: که
+expected: -
+******************************************
+wrong word: ک
+recommended: ک
+expected: یک
+******************************************
+wrong word: ادداشتهای
+recommended: برداشتهای
+expected: یادداشتهای
+******************************************
+wrong word: تهیه
+recommended: تهیه
+expected: تهیهٔ
+******************************************
+wrong word: رانشان
+recommended: رانشان
+expected: نشان
+******************************************
+wrong word: میدهدً
+recommended: میدهد
+expected: میدهد
+******************************************
+wrong word: فاری
+recommended: فارس
+expected: فارسی
+******************************************
+wrong word: ۲
+recommended: و
+expected: ۲۳
+******************************************
+wrong word: وکلاهخود
+recommended: کلاهخود
+expected: کلاهخود
+******************************************
+wrong word: وشیپور
+recommended: شیپور
+expected: شیپور
+******************************************
+wrong word: نیزآز
+recommended: نیز
+expected: نیز
+******************************************
+wrong word: خُود
+recommended: خود
+expected: خود
+******************************************
+wrong word: عقیده
+recommended: عقیده
+expected: عقیدۀ
+******************************************
+wrong word: خْطر
+recommended: خاطر
+expected: خطر
+******************************************
+wrong word: شیوه
+recommended: شیوه
+expected: شیوۀ
+******************************************
+wrong word: کمگم
+recommended: کمکم
+expected: کمکم
+******************************************
+wrong word: تنها
+recommended: تنها
+expected: تنهای
+******************************************
+wrong word: درباره
+recommended: درباره
+expected: دربارۀ
+******************************************
+wrong word: نمیتوانیم
+recommended: میتوانیم
+expected: نمیتوایم
+******************************************
+wrong word: به
+recommended: به
+expected: سر
+******************************************
+wrong word: سربریم
+recommended: سربریم
+expected: بریم
+******************************************
+wrong word: پاسح
+recommended: پاسخ
+expected: پاسخ
+******************************************
+wrong word: اراده
+recommended: اراده
+expected: ارادۀ
+******************************************
+wrong word: [
+recommended: و
+expected: را
+******************************************
+wrong word: انگلستان
+recommended: انگلستان
+expected: انگلیستان
+******************************************
+wrong word: [
+recommended: و
+expected: را
+******************************************
+wrong word: شرع
+recommended: شرع
+expected: شروع
+******************************************
+wrong word: شیفته
+recommended: شیفته
+expected: شیفتۀ
+******************************************
+wrong word: اوگشت
+recommended: انگشت
+expected: گشت
+******************************************
+wrong word: ۰
+recommended: و
+expected: (
+******************************************
+wrong word: وب
+recommended: و
+expected: وب۱
+******************************************
+wrong word: تصاویر
+recommended: تصاویر
+expected: تصوایر
+******************************************
+wrong word: اتصویری
+recommended: تصویری
+expected: تصویری
+******************************************
+wrong word: جشننامه
+recommended: جشننامه
+expected: جشننامۀ
+******************************************
+wrong word: شدهٔ
+recommended: شده
+expected: شدۀ
+******************************************
+wrong word: جزثی
+recommended: جزئی
+expected: جزئی
+******************************************
+wrong word: وسیلهٔ
+recommended: وسیله
+expected: وسیلۀ
+******************************************
+wrong word: نقالی
+recommended: نقالی
+expected: نقّالی
+******************************************
+wrong word: داستاهای
+recommended: دستهای
+expected: داستانهای
+******************************************
+wrong word: غالبأ
+recommended: غالب
+expected: غالباً
+******************************************
+wrong word: که
+recommended: که
+expected: هم
+******************************************
+wrong word: هم
+recommended: هم
+expected: به
+******************************************
+wrong word: بهداستان
+recommended: داستان
+expected: داستان
+******************************************
+wrong word: کلْی
+recommended: کلی
+expected: کلّی
+******************************************
+wrong word: بهره
+recommended: بهره
+expected: بهرۀ
+******************************************
+wrong word: خانوادهٔ
+recommended: خانواده
+expected: خانوادۀ
+******************************************
+wrong word: عیارانی
+recommended: یارانی
+expected: عیاراتی
+******************************************
+wrong word: نیکاندیش
+recommended: خیراندیش
+expected: نیکانکدیش
+******************************************
+wrong word: و
+recommended: و
+expected: د
+******************************************
+wrong word: داستان
+recommended: داستان
+expected: استان
+******************************************
+wrong word: نتیجهٔ
+recommended: نتیجه
+expected: نتیجۀ
+******************************************
+wrong word: داستاها
+recommended: داستانها
+expected: داستانها
+******************************************
+wrong word: تفاوت
+recommended: تفاوت
+expected: نفاوت
+******************************************
+wrong word: غالبا
+recommended: غالبا
+expected: غالباً
+******************************************
+wrong word: داستانذها
+recommended: داستانها
+expected: داستانها
+******************************************
+wrong word: آفرینش
+recommended: آفرینش
+expected: آفرنیش
+******************************************
+wrong word: حادثههای
+recommended: حادثهای
+expected: حادثهها
+******************************************
+wrong word: مهمًٌ
+recommended: مهم
+expected: مهمّ
+******************************************
+wrong word: آهاست
+recommended: هاست
+expected: آنهاست
+******************************************
+wrong word: خاص
+recommended: خاص
+expected: خاصی
+******************************************
+wrong word: چنان
+recommended: چنان
+expected: چنانکه
+******************************************
+wrong word: رودکی
+recommended: رودکی
+expected: روکی
+******************************************
+wrong word: به
+recommended: به
+expected: که
+******************************************
+wrong word: نثر
+recommended: نثر
+expected: بهنثر
+******************************************
+wrong word: بهنظم
+recommended: بهنام
+expected: نظم
+******************************************
+wrong word: و
+recommended: و
+expected: به
+******************************************
+wrong word: بهوقتی
+recommended: بیوقتی
+expected: وقتی
+******************************************
+wrong word: و
+recommended: و
+expected: به
+******************************************
+wrong word: بهجای
+recommended: بجای
+expected: جای
+******************************************
+wrong word: اچون
+recommended: چون
+expected: چون
+******************************************
+wrong word: مطربان
+recommended: مهربان
+expected: مطبان
+******************************************
+wrong word: پرده
+recommended: پرده
+expected: پردۀ
+******************************************
+wrong word: پرده
+recommended: پرده
+expected: پردۀ
+******************************************
+wrong word: ناخوشآیند
+recommended: ناخوشایند
+expected: ناخوشآنده
+******************************************
+wrong word: ی
+recommended: ی
+expected: غیر
+******************************************
+wrong word: بههم
+recommended: بدهم
+expected: به
+******************************************
+wrong word: میزند
+recommended: میزند
+expected: همزند
+******************************************
+wrong word: شده
+recommended: شده
+expected: در
+******************************************
+wrong word: درواقع
+recommended: واقع
+expected: واقع
+******************************************
+wrong word: واقعأ
+recommended: واقع
+expected: واقعاً
+******************************************
+wrong word: آدمٍ
+recommended: آدم
+expected: آدمِ
+******************************************
+wrong word: یا
+recommended: یا
+expected: هر
+******************************************
+wrong word: هرچیز
+recommended: هرچیز
+expected: چیز
+******************************************
+wrong word: ۰
+recommended: و
+expected: …
+******************************************
+wrong word: افکار
+recommended: افکار
+expected: افاکر
+******************************************
+wrong word: ورشینین
+recommended: آرژینین
+expected: ورشنین
+******************************************
+wrong word: نبوده
+recommended: نبوده
+expected: نبودهکه
+******************************************
+wrong word: ۳
+recommended: و
+expected: ۲
+******************************************
+wrong word: باران
+recommended: باران
+expected: وباران
+******************************************
+wrong word: اتقریباً
+recommended: تقریباً
+expected: تقریباً
+******************************************
+wrong word: دمهای
+recommended: درهای
+expected: آدمهای
+******************************************
+wrong word: همه
+recommended: همه
+expected: همۀ
+******************************************
+wrong word: کاری
+recommended: کاری
+expected: یککاری
+******************************************
+wrong word: همهٔ
+recommended: همه
+expected: همۀ
+******************************************
+wrong word: ۰۰
+recommended: و
+expected: …
+******************************************
+wrong word: نوادهای
+recommended: نامهای
+expected: خانوادهای
+******************************************
+wrong word: نواده
+recommended: نواده
+expected: خانواده
+******************************************
+wrong word: نمیششود
+recommended: میشود
+expected: نمیشود
+******************************************
+wrong word: کاراکتاکو
+recommended: کاراکتاکوس
+expected: کاراکتاکوس
+******************************************
+wrong word: یاث
+recommended: یا
+expected: یک
+******************************************
+wrong word: ر
+recommended: و
+expected: در
+******************************************
+wrong word: ومیها
+recommended: قمیها
+expected: رومیها
+******************************************
+wrong word: کردهسپاه
+recommended: کردهسپاه
+expected: کردۀسپاه
+******************************************
+wrong word: ۳۲
+recommended: و
+expected: [
+******************************************
+wrong word: ]
+recommended: و
+expected: ۳۲
+******************************************
+wrong word: }
+recommended: و
+expected: ]
+******************************************
+wrong word: تبلیعاتچی
+recommended: تبلیغاتچی
+expected: تبلیغاتچی
+******************************************
+wrong word: شکستهٔ
+recommended: شکسته
+expected: شکستۀ
+******************************************
+wrong word: باستان
+recommended: باستان
+expected: باستان۵
+******************************************
+wrong word: نشانهٔ
+recommended: نشانه
+expected: نشانۀ
+******************************************
+wrong word: آریان
+recommended: آریان
+expected: آریان۶
+******************************************
+wrong word: )
+recommended: و
+expected: در
+******************************************
+wrong word: درآمد
+recommended: درآمد
+expected: آمد
+******************************************
+wrong word: اسپاهیان
+recommended: سپاهیان
+expected: سپاهیان
+******************************************
+wrong word: اسآ
+recommended: است
+expected: آ
+******************************************
+wrong word: وحشت
+recommended: وحشت
+expected: ووحشت
+******************************************
+wrong word: برانگیزندهٔ
+recommended: برانگیزنده
+expected: برانگیزندۀ
+******************************************
+wrong word: معجره
+recommended: معجزه
+expected: معجزۀ
+******************************************
+wrong word: ۶
+recommended: و
+expected: ۵
+******************************************
+wrong word: ۵۱
+recommended: و
+expected: )
+******************************************
+wrong word: (
+recommended: و
+expected: ۶
+******************************************
+wrong word: ۵
+recommended: و
+expected: )
+******************************************
+wrong word: چ۸
+recommended: چه
+expected: ۷
+******************************************
+wrong word: ۶
+recommended: و
+expected: )
+******************************************
+wrong word: بسیاْر
+recommended: بسیار
+expected: بسیار
+******************************************
+wrong word: دراْشتباهنُد
+recommended: دراْشتباهنُد
+expected: دراشتباهند
+******************************************
+wrong word: شرایِط
+recommended: شرایط
+expected: شرایط
+******************************************
+wrong word: طبیعیو
+recommended: طبیعی
+expected: طبیعی
+******************************************
+wrong word: ومبارز
+recommended: مبارز
+expected: ومبارزۀ
+******************************************
+wrong word: بتیار
+recommended: بتیار
+expected: بسیار
+******************************************
+wrong word: که
+recommended: که
+expected: با
+******************************************
+wrong word: باکفار
+recommended: باکار
+expected: کفار
+******************************************
+wrong word: داشتندٍ
+recommended: داشتند
+expected: داشتند
+******************************************
+wrong word: اترژیشان
+recommended: انرژیشان
+expected: انرژیشان
+******************************************
+wrong word: ومعذلک
+recommended: معذالک
+expected: ومعذالک
+******************************************
+wrong word: گرفَتن
+recommended: گرفتن
+expected: گرفتن
+******************************************
+wrong word: ورعسرت
+recommended: عسرت
+expected: ودرعسرت
+******************************************
+wrong word: میبخحشید
+recommended: میبخشید
+expected: میبخشید
+******************************************
+wrong word: اروپاثی
+recommended: اروپایی
+expected: اروپائی
+******************************************
+wrong word: آمریالی
+recommended: آمریکایی
+expected: آمریکائی
+******************************************
+wrong word: اقتصادیاتَ
+recommended: اقتصادیتر
+expected: اقتصادیات
+******************************************
+wrong word: وانرژبهایمادی
+recommended: وانرژبهایمادی
+expected: وانرژیهایمادی
+******************************************
+wrong word: میدانْند
+recommended: میدانند
+expected: میدانند
+******************************************
+wrong word: میکردکه
+recommended: میکده
+expected: میکرد
+******************************************
+wrong word: ومعتقدارترا
+recommended: ومعتقدارترا
+expected: ومعتقداترا
+******************************************
+wrong word: ومادریاترا
+recommended: ومادریاترا
+expected: ومادیاترا
+******************************************
+wrong word: تاآنجائی
+recommended: تاآنجائی
+expected: آنجائی
+******************************************
+wrong word: ثانیأٌ
+recommended: ثانیه
+expected: ثانیاً
+******************************************
+wrong word: بایندَلیل
+recommended: بایندَلیل
+expected: بایندلیل
+******************************************
+wrong word: نوج
+recommended: نوع
+expected: نسوج
+******************************************
+wrong word: واسترِاحت
+recommended: استراحت
+expected: واستراحت
+******************************************
+wrong word: سِنگِینی
+recommended: سنگینی
+expected: سنگینی
+******************************************
+wrong word: خواس
+recommended: خواست
+expected: خواص
+******************************************
+wrong word: روز
+recommended: روز
+expected: روزه
+******************************************
+wrong word: استً۰
+recommended: است
+expected: است
+******************************************
+wrong word: میخواسثم
+recommended: میخواهیم
+expected: میخواستم
+******************************************
+wrong word: ظاهراٌ
+recommended: ظاهرا
+expected: ظاهراً
+******************************************
+wrong word: جنابٍ
+recommended: جناب
+expected: جناب
+******************************************
+wrong word: ازتغنذیه
+recommended: ازتغنذیه
+expected: ازتغذیه
+******************************************
+wrong word: ۹
+recommended: و
+expected: ۶
+******************************************
+wrong word: شرو
+recommended: شرو
+expected: شروع
+******************************************
+wrong word: مکار
+recommended: مکار
+expected: کار
+******************************************
+wrong word: نست
+recommended: است
+expected: نسبت
+******************************************
+wrong word: بر
+recommended: بر
+expected: بکار
+******************************************
+wrong word: دانت
+recommended: دانت
+expected: دانست
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: ریهآ
+recommended: ریه
+expected: ریشه
+******************************************
+wrong word: نرا
+recommended: نرا
+expected: را
+******************************************
+wrong word: محلولآب
+recommended: محلول
+expected: محلول
+******************************************
+wrong word: مهواد
+recommended: مواد
+expected: مواد
+******************************************
+wrong word: غذایی
+recommended: غذایی
+expected: غذائی
+******************************************
+wrong word: بإوسیله
+recommended: بوسیله
+expected: بوسیله
+******************************************
+wrong word: اکیژن
+recommended: اکسیژن
+expected: اکسیژن
+******************************************
+wrong word: پا
+recommended: پا
+expected: یا
+******************************************
+wrong word: وگیاءه
+recommended: گیاه
+expected: گیاه
+******************************************
+wrong word: ازهوا
+recommended: الهوا
+expected: هوا
+******************************************
+wrong word: هیکند
+recommended: میکند
+expected: میکند
+******************************************
+wrong word: گیامحاضر
+recommended: گیامحاضر
+expected: گیاهحاضر
+******************************************
+wrong word: بر
+recommended: بر
+expected: از
+******************************************
+wrong word: گها
+recommended: گاه
+expected: برگها
+******************************************
+wrong word: میوشود
+recommended: میشود
+expected: میشود
+******************************************
+wrong word: اداهمه
+recommended: ادامه
+expected: ادامه
+******************************************
+wrong word: دانت
+recommended: دانت
+expected: دانست
+******************************************
+wrong word: هت
+recommended: هت
+expected: هست
+******************************************
+wrong word: بارانت
+recommended: بارانت
+expected: بارانست
+******************************************
+wrong word: رسودن
+recommended: رسیدن
+expected: رسیدن
+******************************************
+wrong word: خا
+recommended: خا
+expected: خاک
+******************************************
+wrong word: هواد
+recommended: مواد
+expected: مواد
+******************************************
+wrong word: منم
+recommended: منم
+expected: منبع
+******************************************
+wrong word: جمماوری
+recommended: جمهوری
+expected: جمعآوری
+******************************************
+wrong word: حک
+recommended: حک
+expected: حکم
+******************************************
+wrong word: مقْطر
+recommended: مقطر
+expected: مقطر
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: هموادی
+recommended: موادی
+expected: موادی
+******************************************
+wrong word: ین
+recommended: ین
+expected: حین
+******************************************
+wrong word: ریز
+recommended: ریز
+expected: ریزش
+******************************************
+wrong word: از
+recommended: از
+expected: لز
+******************************************
+wrong word: هواد
+recommended: مواد
+expected: مواد
+******************************************
+wrong word: دیگری
+recommended: دیگری
+expected: دیگر
+******************************************
+wrong word: جهوت
+recommended: جهت
+expected: جهت
+******************************************
+wrong word: غذاآیت
+recommended: غذاییت
+expected: غذائیت
+******************************************
+wrong word: بارانکه
+recommended: بارانه
+expected: باران
+******************************************
+wrong word: باءمها
+recommended: بامها
+expected: بامها
+******************************************
+wrong word: مهوجود
+recommended: موجود
+expected: موجود
+******************************************
+wrong word: باءها
+recommended: باءها
+expected: بامها
+******************************************
+wrong word: میساذد
+recommended: میسازد
+expected: میسازد
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: هستندکه
+recommended: هستند
+expected: هستند
+******************************************
+wrong word: بایدآ
+recommended: باید
+expected: باید
+******************************************
+wrong word: اهارا
+recommended: هارا
+expected: آنهارا
+******************************************
+wrong word: برگث
+recommended: برگ
+expected: بر
+******************************************
+wrong word: نها
+recommended: آنها
+expected: آنها
+******************************************
+wrong word: زهر
+recommended: زهر
+expected: ژهر
+******************************************
+wrong word: را
+recommended: را
+expected: و
+******************************************
+wrong word: ند
+recommended: ند
+expected: را
+******************************************
+wrong word: اینگو
+recommended: اینرو
+expected: اینگونه
+******************************************
+wrong word: نهگیاهها
+recommended: نگاهها
+expected: گیاهها
+******************************************
+wrong word: بارانکه
+recommended: بارانه
+expected: باران
+******************************************
+wrong word: ۰مواد
+recommended: مواد
+expected: مود
+******************************************
+wrong word: نمود
+recommended: نمود
+expected: نموده
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: نواع
+recommended: نوع
+expected: انواع
+******************************************
+wrong word: هورتا
+recommended: هورتا
+expected: هورتانس
+******************************************
+wrong word: دقّت
+recommended: دقت
+expected: دقت
+******************************************
+wrong word: بجممعآوری
+recommended: جمعآوری
+expected: بجمعآوری
+******************************************
+wrong word: مخلاوط
+recommended: مخلوط
+expected: مخلوط
+******************************************
+wrong word: ۰در
+recommended: در
+expected: در
+******************************************
+wrong word: جاهاآیکه
+recommended: جاهاآیکه
+expected: جاهائیکه
+******************************************
+wrong word: بهای
+recommended: برای
+expected: آبهای
+******************************************
+wrong word: نند
+recommended: کند
+expected: مانند
+******************************************
+wrong word: اهنر
+recommended: هنر
+expected: نهر
+******************************************
+wrong word: چمه
+recommended: چمه
+expected: چشمه
+******************************************
+wrong word: براآ
+recommended: برای
+expected: برای
+******************************************
+wrong word: بیاری
+recommended: بیاری
+expected: آبیاری
+******************************************
+wrong word: نباد
+recommended: نباد
+expected: نباشد
+******************************************
+wrong word: جهوت
+recommended: جهت
+expected: جهت
+******************************************
+wrong word: تأمینآب
+recommended: تأمین
+expected: تأمین
+******************************************
+wrong word: إسته
+recommended: دسته
+expected: بسته
+******************************************
+wrong word: ۱۰۱
+recommended: ۱۰۱
+expected: ۱۰
+******************************************
+wrong word: ۰آب
+recommended: آب
+expected: آب
+******************************************
+wrong word: نلمبههای
+recommended: تلمبهای
+expected: تلمبههای
+******************************************
+wrong word: إطح
+recommended: سطح
+expected: بسطح
+******************************************
+wrong word: آور
+recommended: آور
+expected: آورده
+******************************************
+wrong word: آ
+recommended: آ
+expected: را
+******************************************
+wrong word: چاءههای
+recommended: ماههای
+expected: چاههای
+******************************************
+wrong word: بأ
+recommended: به
+expected: با
+******************************************
+wrong word: هوتور
+recommended: موتور
+expected: موتور
+******************************************
+wrong word: هیکند
+recommended: میکند
+expected: میکند
+******************************************
+wrong word: زمیون
+recommended: زمین
+expected: زمین
+******************************************
+wrong word: کس
+recommended: کس
+expected: هرکس
+******************************************
+wrong word: گاکاری
+recommended: گلکاری
+expected: گلکاری
+******************************************
+wrong word: نه
+recommended: نه
+expected: و
+******************************************
+wrong word: اولی
+recommended: اولی
+expected: اولین
+******************************************
+wrong word: فّکر
+recommended: فکر
+expected: فکر
+******************************************
+wrong word: تأمیون
+recommended: تأمین
+expected: تأمین
+******************************************
+wrong word: آکافی
+recommended: کافی
+expected: آبکافی
+******************************************
+wrong word: بار
+recommended: بار
+expected: بکار
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: شرومع
+recommended: شروع
+expected: شروع
+******************************************
+wrong word: اب
+recommended: اب
+expected: آب
+******************************************
+wrong word: چاءهها
+recommended: چاهها
+expected: چاهها
+******************************************
+wrong word: قرهای
+recommended: قرهای
+expected: قشرهای
+******************************************
+wrong word: ا
+recommended: ا
+expected: که
+******************************************
+wrong word: آ
+recommended: آ
+expected: از
+******************************************
+wrong word: نجاها
+recommended: جاها
+expected: آنجاها
+******************************************
+wrong word: جمِمع
+recommended: جمع
+expected: جمع
+******************************************
+wrong word: هیشود
+recommended: میشود
+expected: میشود
+******************************************
+wrong word: استکه
+recommended: استه
+expected: است
+******************************************
+wrong word: گل
+recommended: گل
+expected: و
+******************************************
+wrong word: وگیاءه
+recommended: گیاه
+expected: گیاه
+******************************************
+wrong word: إهوتر
+recommended: بهتر
+expected: بهتر
+******************************************
+wrong word: بوسیله
+recommended: بوسیله
+expected: بوسیلۀ
+******************************************
+wrong word: رسید
+recommended: رسید
+expected: رسیدگی
+******************************************
+wrong word: خوال
+recommended: خوال
+expected: خیال
+******************************************
+wrong word: مرهاست
+recommended: شدهاست
+expected: مضرهاست
+******************************************
+wrong word: رفم
+recommended: رفت
+expected: رفع
+******************************************
+wrong word: آورند
+recommended: آورند
+expected: آوردند
+******************************************
+wrong word: بیاری
+recommended: بیاری
+expected: آبیاری
+******************************************
+wrong word: گاهوا
+recommended: گاها
+expected: گلها
+******************************************
+wrong word: امت
+recommended: امت
+expected: است
+******************************************
+wrong word: مجموعه
+recommended: مجموعه
+expected: مجموعۀ
+******************************************
+wrong word: پارویی
+recommended: دارویی
+expected: پارهیی
+******************************************
+wrong word: خلیفه
+recommended: خلیفه
+expected: خلیفة
+******************************************
+wrong word: پارویی
+recommended: دارویی
+expected: پارهیی
+******************************************
+wrong word: ابزار
+recommended: ابزار
+expected: ابراز
+******************************************
+wrong word: هرآنچه
+recommended: هرآنچه
+expected: آنچه
+******************************************
+wrong word: قرآن
+recommended: قرآن
+expected: فرآن
+******************************************
+wrong word: قرآن
+recommended: قرآن
+expected: فرآن
+******************************************
+wrong word: تأکید
+recommended: تأکید
+expected: تأکید
+******************************************
+wrong word: پرداخت
+recommended: پرداخت
+expected: پراخت
+******************************************
+wrong word: و
+recommended: و
+expected: نا
+******************************************
+wrong word: نامعتبر
+recommended: نامعتبر
+expected: معتبر
+******************************************
+wrong word: در
+recommended: در
+expected: آن
+******************************************
+wrong word: و
+recommended: و
+expected: که
+******************************************
+wrong word: نه
+recommended: نه
+expected: نشده
+******************************************
+wrong word: حل
+recommended: حل
+expected: و
+******************************************
+wrong word: خود
+recommended: خود
+expected: او
+******************************************
+wrong word: است
+recommended: است
+expected: این
+******************************************
+wrong word: که
+recommended: که
+expected: در
+******************************************
+wrong word: و
+recommended: و
+expected: از
+******************************************
+wrong word: وی
+recommended: وی
+expected: را
+******************************************
+wrong word: حل
+recommended: حل
+expected: و
+******************************************
+wrong word: را
+recommended: را
+expected: و
+******************************************
+wrong word: و
+recommended: و
+expected: آن
+******************************************
+wrong word: روش
+recommended: روش
+expected: و
+******************************************
+wrong word: بر
+recommended: بر
+expected: به
+******************************************
+wrong word: در
+recommended: در
+expected: و
+******************************************
+wrong word: و
+recommended: و
+expected: در
+******************************************
+wrong word: آن
+recommended: آن
+expected: به
+******************************************
+wrong word: و
+recommended: و
+expected: آن
+******************************************
+wrong word: به
+recommended: به
+expected: از
+******************************************
+wrong word: و
+recommended: و
+expected: به
+******************************************
+wrong word: و
+recommended: و
+expected: که
+******************************************
+wrong word: در
+recommended: در
+expected: وی
+******************************************
+wrong word: به
+recommended: به
+expected: با
+******************************************
+wrong word: آن
+recommended: آن
+expected: این
+******************************************
+wrong word: به
+recommended: به
+expected: در
+******************************************
+wrong word: که
+recommended: که
+expected: حل
+******************************************
+wrong word: وی
+recommended: وی
+expected: که
+******************************************
+wrong word: با
+recommended: با
+expected: بحث
+******************************************
+wrong word: حل
+recommended: حل
+expected: وحی
+******************************************
+wrong word: که
+recommended: که
+expected: جن
+******************************************
+wrong word: چون
+recommended: چون
+expected: و
+******************************************
+wrong word: وحی
+recommended: وحی
+expected: وی
+******************************************
+wrong word: جن
+recommended: جن
+expected: و
+******************************************
+wrong word: و
+recommended: و
+expected: کخ
+******************************************
+wrong word: …
+recommended: و
+expected: به
+******************************************
+wrong word: وی
+recommended: وی
+expected: به
+******************************************
+wrong word: در
+recommended: در
+expected: و
+******************************************
+wrong word: این
+recommended: این
+expected: او
+******************************************
+wrong word: جن
+recommended: جن
+expected: این
+******************************************
+wrong word: را
+recommended: را
+expected: از
+******************************************
+wrong word: وی
+recommended: وی
+expected: و
+******************************************
+wrong word: میشود
+recommended: میشود
+expected: میکند
+******************************************
+wrong word: او
+recommended: او
+expected: و
+******************************************
+wrong word: عرب
+recommended: عرب
+expected: را
+******************************************
+wrong word: و
+recommended: و
+expected: در
+******************************************
+wrong word: از
+recommended: از
+expected: در
+******************************************
+wrong word: این
+recommended: این
+expected: از
+******************************************
+wrong word: را
+recommended: را
+expected: که
+******************************************
+wrong word: این
+recommended: این
+expected: است
+******************************************
+wrong word: در
+recommended: در
+expected: با
+******************************************
+wrong word: با
+recommended: با
+expected: و
+******************************************
+wrong word: حل
+recommended: حل
+expected: را
+******************************************
+wrong word: و
+recommended: و
+expected: در
+******************************************
+wrong word: فصل
+recommended: فصل
+expected: فهم
+******************************************
+wrong word: مینماید
+recommended: مینماید
+expected: میگشاید
+******************************************
+wrong word: و
+recommended: و
+expected: در
+******************************************
+wrong word: نوی
+recommended: نوی
+expected: نیز
+******************************************
+wrong word: را
+recommended: را
+expected: سال
+******************************************
+wrong word: در
+recommended: در
+expected: را
+******************************************
+wrong word: و
+recommended: و
+expected: به
+******************************************
+wrong word: در
+recommended: در
+expected: که
+******************************************
+wrong word: در
+recommended: در
+expected: به
+******************************************
+wrong word: سال
+recommended: سال
+expected: را
+******************************************
+wrong word: را
+recommended: را
+expected: فرد
+******************************************
+wrong word: به
+recommended: به
+expected: و
+******************************************
+wrong word: که
+recommended: که
+expected: زن
+******************************************
+wrong word: به
+recommended: به
+expected: اهل
+******************************************
+wrong word: نامههارا
+recommended: نامهها
+expected: نامهها
+******************************************
+wrong word: میگفتند
+recommended: میافتند
+expected: میگفنتد
+******************************************
+wrong word: دانشکدهٔ
+recommended: دانشکده
+expected: دانشکدۀ
+******************************************
+wrong word: افر
+recommended: اگر
+expected: افسر
+******************************************
+wrong word: باسواد
+recommended: باسواد
+expected: باسود
+******************************************
+wrong word: داشتند
+recommended: داشتند
+expected: داشنتد
+******************************************
+wrong word: فرماندهٔ
+recommended: فرمانده
+expected: فرماندۀ
+******************************************
+wrong word: شنات
+recommended: شناخت
+expected: شناخت
+******************************************
+wrong word: قرا۱
+recommended: قرار
+expected: قرآن
+******************************************
+wrong word: بیاور
+recommended: بیاور
+expected: بیاورید
+******************************************
+wrong word: آخر
+recommended: آخر
+expected: آخرین
+******************************************
+wrong word: إص
+recommended: نص
+expected: ص
+******************************************
+wrong word: آت
+recommended: آت
+expected: آن
+******************************************
+wrong word: بیاور
+recommended: بیاور
+expected: بیاورید
+******************************************
+wrong word: ید
+recommended: ید
+expected: و
+******************************************
+wrong word: وبعد
+recommended: بعد
+expected: بعد
+******************************************
+wrong word: میگو
+recommended: میگو
+expected: میگوید
+******************************************
+wrong word: بیاور
+recommended: بیاور
+expected: بیاورید
+******************************************
+wrong word: معجزه
+recommended: معجزه
+expected: معجزهٔ
+******************************************
+wrong word: قرآ
+recommended: قرآن
+expected: قرآن
+******************************************
+wrong word: بثشر
+recommended: بشر
+expected: بشر
+******************************************
+wrong word: معجزه
+recommended: معجزه
+expected: معجزهٔ
+******************************************
+wrong word: باقیه
+recommended: باقی
+expected: باقیهٔ
+******************************************
+wrong word: رآن
+recommended: آن
+expected: قرآن
+******************************************
+wrong word: جلسه
+recommended: جلسه
+expected: جلسهٔ
+******************************************
+wrong word: کتب
+recommended: کتب
+expected: کتاب
+******************************************
+wrong word: ودر
+recommended: در
+expected: در
+******************************************
+wrong word: جنبه
+recommended: جنبه
+expected: جنبهٔ
+******************************************
+wrong word: قرآتن
+recommended: قرآن
+expected: قرآن
+******************************************
+wrong word: صوصاً
+recommended: خصوصاً
+expected: خصوصاً
+******************************************
+wrong word: مخصوصاٌ
+recommended: مخصوصا
+expected: مخصوصاً
+******************************************
+wrong word: داشتّه
+recommended: داشته
+expected: داشته
+******************************************
+wrong word: ترآن
+recommended: قرآن
+expected: قرآن
+******************************************
+wrong word: نفصاحت
+recommended: فصاحت
+expected: فصاحت
+******************************************
+wrong word: عر
+recommended: عر
+expected: که
+******************************************
+wrong word: بهای
+recommended: برای
+expected: عربهای
+******************************************
+wrong word: وتا
+recommended: تا
+expected: تا
+******************************************
+wrong word: عزّتٍ
+recommended: عزت
+expected: عزّتِ
+******************************************
+wrong word: آرزویٍ
+recommended: آرزوی
+expected: آرزویِ
+******************************************
+wrong word: جسم
+recommended: جسم
+expected: بهجسم
+******************************************
+wrong word: هیأتٍ
+recommended: هیأت
+expected: هیأتِ
+******************************************
+wrong word: روانی
+recommended: روانی
+expected: روا
+******************************************
+wrong word: بهرٍ
+recommended: بهره
+expected: بهرِ
+******************************************
+wrong word: دشتٍ
+recommended: دشت
+expected: دشتِ
+******************************************
+wrong word: بهمدفن
+recommended: بهمدان
+expected: مدفن
+******************************************
+wrong word: سرٍ
+recommended: سر
+expected: سرِ
+******************************************
+wrong word: میزهای
+recommended: مرزهای
+expected: میزهایِ
+******************************************
+wrong word: سلامتٍ
+recommended: سلامت
+expected: سلامتِ
+******************************************
+wrong word: اصطکاکٍ
+recommended: اصطکاک
+expected: اصطکاکِ
+******************************************
+wrong word: سرٍ
+recommended: سر
+expected: سرِ
+******************************************
+wrong word: رام
+recommended: رام
+expected: خُرام
+******************************************
+wrong word: مردانٍ
+recommended: مردان
+expected: مردانِ
+******************************************
+wrong word: برایٍ
+recommended: برای
+expected: برایِ
+******************************************
+wrong word: زادنٍ
+recommended: زادن
+expected: زادنِ
+******************************************
+wrong word: شبهٍ
+recommended: شبه
+expected: شبهِ
+******************************************
+wrong word: فکرٍ
+recommended: فکر
+expected: فکِر
+******************************************
+wrong word: هرجا
+recommended: هرجا
+expected: بههرجا
+******************************************
+wrong word: مُشکافام
+recommended: مُشکافام
+expected: مُشکفام
+******************************************
+wrong word: کُی
+recommended: کسی
+expected: کشی
+******************************************
+wrong word: زمایٍ
+recommended: زماین
+expected: زمانِ
+******************************************
+wrong word: سوثز
+recommended: سوز
+expected: سوئز
+******************************************
+wrong word: دستنشانده
+recommended: دستنشانده
+expected: دستنشاندۀ
+******************************************
+wrong word: معترف
+recommended: معترف
+expected: متعرف
+******************************************
+wrong word: ۱
+recommended: و
+expected: ۲۵۱
+******************************************
+wrong word: بهزودی
+recommended: بهزودی
+expected: بزودی
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: آن
+recommended: آن
+expected: به
+******************************************
+wrong word: بهکار
+recommended: بهار
+expected: کار
+******************************************
+wrong word: با
+recommended: با
+expected: و
+******************************************
+wrong word: توجه
+recommended: توجه
+expected: باتوجه
+******************************************
+wrong word: ۴۱۳
+recommended: ۴۱۳
+expected: ۱۳
+******************************************
+wrong word: اروپا
+recommended: اروپا
+expected: اوپا
+******************************************
+wrong word: اروپا
+recommended: اروپا
+expected: اوپا
+******************************************
+wrong word: سرگیجه
+recommended: سرگیجه
+expected: سرگیجهٔ
+******************************************
+wrong word: حوزه
+recommended: حوزه
+expected: حوزهٔ
+******************************************
+wrong word: مستعمره
+recommended: مستعمره
+expected: مستعمرهٔ
+******************************************
+wrong word: اروپا
+recommended: اروپا
+expected: اوپا
+******************************************
+wrong word: …
+recommended: و
+expected: ۱
+******************************************
+wrong word: روی
+recommended: روی
+expected: وروی
+******************************************
+wrong word: الژیون
+recommended: لژیون
+expected: لژیون
+******************************************
+wrong word: عملا
+recommended: عملا
+expected: عملاً
+******************************************
+wrong word: اگانگستر
+recommended: گانگستر
+expected: گانگستر
+******************************************
+wrong word: رنجره
+recommended: پنجره
+expected: رنجر
+******************************************
+wrong word: سذت
+recommended: سمت
+expected: سنت
+******************************************
+wrong word: اگزوپری۱۵
+recommended: اگزوپری
+expected: اگزوپری
+******************************************
+wrong word: غرّشکنان
+recommended: غرغرکنان
+expected: غٔرّشکنان
+******************************************
+wrong word: آنرا
+recommended: آنرا
+expected: را
+******************************************
+wrong word: توها
+recommended: تنها
+expected: توپها
+******************************************
+wrong word: چنان
+recommended: چنان
+expected: چنانکه
+******************************************
+wrong word: وشاید
+recommended: شاید
+expected: شاید
+******************************************
+wrong word: جابهجا
+recommended: جابهجا
+expected: جابجا
+******************************************
+wrong word: ندیک
+recommended: ندیک
+expected: نزدیک
+******************************************
+wrong word: بر
+recommended: بر
+expected: سرش
+******************************************
+wrong word: خورد
+recommended: خورد
+expected: برخورد
+******************************************
+wrong word: مجموعه
+recommended: مجموعه
+expected: مجموعۀ
+******************************************
+wrong word: دانشکاه
+recommended: دانشگاه
+expected: دانشگاه
+******************************************
+wrong word: فر
+recommended: فر
+expected: چه
+******************************************
+wrong word: مایشی
+recommended: مایلی
+expected: فرمایشی
+******************************************
+wrong word: وزی
+recommended: وزی
+expected: روزی
+******************************************
+wrong word: دور
+recommended: دور
+expected: دورۀ
+******************************************
+wrong word: وزی
+recommended: وزی
+expected: روزی
+******************************************
+wrong word: ر
+recommended: و
+expected: را
+******************************************
+wrong word: میشناسم۰
+recommended: میشناسم
+expected: میشناسم
+******************************************
+wrong word: شاء
+recommended: شاء
+expected: ان
+******************************************
+wrong word: شفاسید
+recommended: شناسید
+expected: شناسید
+******************************************
+wrong word: دیگکر
+recommended: دیگر
+expected: دیگری
+******************************************
+wrong word: ادت
+recommended: ادت
+expected: ارادت
+******************************************
+wrong word: بد
+recommended: بد
+expected: بود
+******************************************
+wrong word: سی
+recommended: سی
+expected: [
+******************************************
+wrong word: یال
+recommended: یال
+expected: ریال
+******************************************
+wrong word: ز
+recommended: ز
+expected: را
+******************************************
+wrong word: مین
+recommended: مین
+expected: زمین
+******************************************
+wrong word: صور
+recommended: صور
+expected: صورتش
+******************************************
+wrong word: استش
+recommended: است
+expected: راستش
+******************************************
+wrong word: ندار
+recommended: ندار
+expected: ندارم
+******************************************
+wrong word: ندار
+recommended: ندار
+expected: ندارم
+******************************************
+wrong word: بِشوم
+recommended: بشوم
+expected: بشوم
+******************************************
+wrong word: ر۱ا
+recommended: را
+expected: را
+******************************************
+wrong word: ساحتمان
+recommended: ساختمان
+expected: شاختمان
+******************************************
+wrong word: گر
+recommended: گر
+expected: بی
+******************************************
+wrong word: بیهنر
+recommended: بیهنر
+expected: هنر
+******************************************
+wrong word: شماروا
+recommended: شمارا
+expected: شمار
+******************************************
+wrong word: گرگاو
+recommended: گرگان
+expected: گاو
+******************************************
+wrong word: مذتّت
+recommended: مذمت
+expected: مذمّت
+******************************************
+wrong word: مدارکه
+recommended: مدارک
+expected: مدار
+******************************************
+wrong word: قایده
+recommended: ایده
+expected: فایده
+******************************************
+wrong word: و
+recommended: و
+expected: بر
+******************************************
+wrong word: برکس
+recommended: برکت
+expected: کس
+******************************************
+wrong word: سوارانند
+recommended: سواران
+expected: سوارانند۲
+******************************************
+wrong word: منً
+recommended: من
+expected: منّ
+******************************************
+wrong word: اذی
+recommended: اذی
+expected: أذی
+******************************************
+wrong word: بحسسرت
+recommended: حسرت
+expected: بحسرت
+******************************************
+wrong word: برآیدکه
+recommended: براینکه
+expected: برآید
+******************************************
+wrong word: و
+recommended: و
+expected: بی
+******************************************
+wrong word: بیسعی
+recommended: بیستی
+expected: سعی
+******************************************
+wrong word: نیاقتهای
+recommended: نیافتهای
+expected: نیافتهای
+******************************************
+wrong word: طح
+recommended: طح
+expected: طمع
+******************************************
+wrong word: یحکه
+recommended: یکه
+expected: که
+******************************************
+wrong word: وگدا
+recommended: گدا
+expected: گدا
+******************************************
+wrong word: تمیزان
+recommended: میزان
+expected: تمیزان۳
+******************************************
+wrong word: وگویند
+recommended: بگویند
+expected: گویند
+******************************************
+wrong word: و
+recommended: و
+expected: و۴
+******************************************
+wrong word: آنراکه
+recommended: آنکه
+expected: آنرا
+******************************************
+wrong word: د
+recommended: د
+expected: که
+******************************************
+wrong word: آنکه
+recommended: آنکه
+expected: آنکه۵
+******************************************
+wrong word: چشم
+recommended: چشم
+expected: چشم۶
+******************************************
+wrong word: پر
+recommended: پر
+expected: پُر
+******************************************
+wrong word: طح
+recommended: طح
+expected: طمع
+******************************************
+wrong word: پر
+recommended: پر
+expected: پُر
+******************************************
+wrong word: هرکجا
+recommended: هرجا
+expected: کجا
+******************************************
+wrong word: دیددای
+recommended: دیدهای
+expected: دیدهای
+******************************************
+wrong word: بشره
+recommended: بشره
+expected: بشره۷
+******************************************
+wrong word: تواع
+recommended: توان
+expected: توابع
+******************************************
+wrong word: وحلال
+recommended: حلال
+expected: حلال
+******************************************
+wrong word: نشناسد
+recommended: نشناسد
+expected: نشناشد
+******************************************
+wrong word: دوکس
+recommended: بوکس
+expected: کس
+******************************************
+wrong word: پنداردکه
+recommended: پندارد
+expected: پندارد
+******************************************
+wrong word: هماناکه
+recommended: هماناک
+expected: هماناکه۸
+******************************************
+wrong word: ۰۱
+recommended: و
+expected: ۱
+******************************************
+wrong word: شمارد۰
+recommended: شمارد
+expected: شمارد
+******************************************
+wrong word: ۳۰
+recommended: و
+expected: ۳
+******************************************
+wrong word: مالحان
+recommended: صالحان
+expected: صالحان
+******************************************
+wrong word: بحتیقت
+recommended: بحقیقت
+expected: بحقیقت
+******************************************
+wrong word: ه
+recommended: و
+expected: ۵
+******************************************
+wrong word: ازآنکه
+recommended: ازینکه
+expected: آنکه
+******************************************
+wrong word: بیابلان
+recommended: بیابان
+expected: بیابان
+******************************************
+wrong word: درشود
+recommended: درود
+expected: شود
+******************************************
+wrong word: چشم۷
+recommended: چشم
+expected: چشم
+******************************************
+wrong word: پاء
+recommended: پای
+expected: پا
+******************************************
+wrong word: فزون
+recommended: فزون
+expected: فزونتر
+******************************************
+wrong word: ترگرمی
+recommended: سرگرمی
+expected: گرمی
+******************************************
+wrong word: هر
+recommended: هر
+expected: بههر
+******************************************
+wrong word: هر
+recommended: هر
+expected: بههر
+******************************************
+wrong word: هر
+recommended: هر
+expected: بههر
+******************************************
+wrong word: هر
+recommended: هر
+expected: بههر
+******************************************
+wrong word: بهسوی
+recommended: بهسوی
+expected: بسوی
+******************************************
+wrong word: جزگل
+recommended: جنگل
+expected: گل
+******************************************
+wrong word: ۱۹۵۵۰
+recommended: ۱۹۵۵۰
+expected: ۱۹۵۵
+******************************************
+wrong word: پیرو
+recommended: پیرو
+expected: پیر
+******************************************
+wrong word: گّفت
+recommended: گفت
+expected: گفت
+******************************************
+wrong word: حوضچههای
+recommended: حوضچهها
+expected: حوضههای
+******************************************
+wrong word: دراْزی
+recommended: درازی
+expected: درازی
+******************************************
+wrong word: حوضچه
+recommended: حوضچه
+expected: حوضچهٔ
+******************************************
+wrong word: جنان
+recommended: جنان
+expected: چنان
+******************************************
+wrong word: حوضچههای
+recommended: حوضچهها
+expected: حوضههای
+******************************************
+wrong word: ر
+recommended: و
+expected: )
+******************************************
+wrong word: [
+recommended: و
+expected: را
+******************************************
+wrong word: [
+recommended: و
+expected: را
+******************************************
+wrong word: جچکار
+recommended: چکار
+expected: چکار
+******************************************
+wrong word: دنبالٍ
+recommended: دنبال
+expected: دنبالِ
+******************************************
+wrong word: ۶
+recommended: و
+expected: *
+******************************************
+wrong word: گفتنیهایٍ
+recommended: گفتنیها
+expected: گفتنیهایِ
+******************************************
+wrong word: وقتٍ
+recommended: وقتی
+expected: وقتِ
+******************************************
+wrong word: إبا
+recommended: با
+expected: با
+******************************************
+wrong word: خویشتن
+recommended: خویشتن
+expected: خویشتم
+******************************************
+wrong word: آشنا
+recommended: آشنا
+expected: آشنادر
+******************************************
+wrong word: کارٍ
+recommended: کار
+expected: کارِ
+******************************************
+wrong word: خحیره
+recommended: خیره
+expected: خیره
+******************************************
+wrong word: اجاق
+recommended: اجاق
+expected: اجاقِ
+******************************************
+wrong word: حالٍ
+recommended: حال
+expected: حالِ
+******************************************
+wrong word: آرزوهای
+recommended: آرزوها
+expected: آرزوهایِ
+******************************************
+wrong word: قله
+recommended: قله
+expected: قلّه
+******************************************
+wrong word: یکانفس
+recommended: سکانس
+expected: یکنفس
+******************************************
+wrong word: غرورٍ
+recommended: غرور
+expected: غرورِ
+******************************************
+wrong word: چوبدستٍ
+recommended: چوبدستی
+expected: چوبدستِ
+******************************************
+wrong word: مسیرٍ
+recommended: مسیر
+expected: مسیرِ
+******************************************
+wrong word: قعر
+recommended: قعر
+expected: قعرِ
+******************************************
+wrong word: دنبالٍ
+recommended: دنبال
+expected: دنبالِ
+******************************************
+wrong word: کالامای
+recommended: کالامان
+expected: کالاهای
+******************************************
+wrong word: بیگاه
+recommended: بیگاه
+expected: بیگانه
+******************************************
+wrong word: وآهیما
+recommended: آریما
+expected: آهیمسا
+******************************************
+wrong word: آجا
+recommended: آجا
+expected: آنجا
+******************************************
+wrong word: ساه
+recommended: سال
+expected: سادۀ
+******************************************
+wrong word: بتیجه
+recommended: نتیجه
+expected: نتیجه
+******************************************
+wrong word: رس
+recommended: رس
+expected: ترس-
+******************************************
+wrong word: تمیتواند
+recommended: میتواند
+expected: نمیتواند
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: فوقد
+recommended: فوق
+expected: فوق-
+******************************************
+wrong word: الذ
+recommended: الذ
+expected: الذکر
+******************************************
+wrong word: کرتبعیت
+recommended: تبعیت
+expected: تبعیت
+******************************************
+wrong word: وملتها
+recommended: ملتها
+expected: ملتها
+******************************************
+wrong word: وخانوادهها
+recommended: خانوادهها
+expected: خانوادهها
+******************************************
+wrong word: ومردان
+recommended: مردان
+expected: مردان
+******************************************
+wrong word: مرک
+recommended: مرک
+expected: مرگ
+******************************************
+wrong word: را
+recommended: را
+expected: راه
+******************************************
+wrong word: ترس
+recommended: ترس
+expected: نترس
+******************************************
+wrong word: کادی
+recommended: کادی
+expected: گاندی
+******************************************
+wrong word: را
+recommended: را
+expected: بر
+******************************************
+wrong word: برچنین
+recommended: برچین
+expected: چنین
+******************************************
+wrong word: پیرزی
+recommended: پیرزی
+expected: پیریزی
+******************************************
+wrong word: میکند
+recommended: میکند
+expected: کند
+******************************************
+wrong word: باسر
+recommended: باسر
+expected: بسایر
+******************************************
+wrong word: بیتی
+recommended: بیتی
+expected: تربیتی
+******************************************
+wrong word: بیار
+recommended: بیار
+expected: بسیار
+******************************************
+wrong word: ذل
+recommended: ذل
+expected: ذیل
+******************************************
+wrong word: درکارهای
+recommended: کارهای
+expected: کارهای
+******************************************
+wrong word: از
+recommended: از
+expected: هر
+******************************************
+wrong word: هرچیز
+recommended: هرچیز
+expected: چیز
+******************************************
+wrong word: درکاری
+recommended: دورکاری
+expected: کاری
+******************************************
+wrong word: ند
+recommended: ند
+expected: را
+******************************************
+wrong word: شدلد
+recommended: شدند
+expected: شدند
+******************************************
+wrong word: ایان
+recommended: این
+expected: ایشان
+******************************************
+wrong word: راا
+recommended: را
+expected: از
+******************************************
+wrong word: سپردا
+recommended: سپردا
+expected: سپرد۱
+******************************************
+wrong word: دور
+recommended: دور
+expected: دورۀ
+******************************************
+wrong word: می
+recommended: می
+expected: می-
+******************************************
+wrong word: ا
+recommended: ا
+expected: این
+******************************************
+wrong word: جدا
+recommended: جدا
+expected: حدا
+******************************************
+wrong word: باد
+recommended: باد
+expected: از
+******************************************
+wrong word: ازحق
+recommended: الحق
+expected: حق
+******************************************
+wrong word: براشان
+recommended: بارشان
+expected: برایشان
+******************************************
+wrong word: کان
+recommended: کان
+expected: کنند
+******************************************
+wrong word: نباد
+recommended: نباد
+expected: نباید
+******************************************
+wrong word: ددن
+recommended: ددن
+expected: دیدن
+******************************************
+wrong word: برو
+recommended: برو
+expected: بروند
+******************************************
+wrong word: پک
+recommended: پک
+expected: یک
+******************************************
+wrong word: رو
+recommended: رو
+expected: روز
+******************************************
+wrong word: ا
+recommended: ا
+expected: از
+******************************************
+wrong word: وقتاان
+recommended: وقتشان
+expected: وقتایشان
+******************************************
+wrong word: بسسفرپیاده
+recommended: بسسفرپیاده
+expected: بسفرپیاده
+******************************************
+wrong word: در
+recommended: در
+expected: هر
+******************************************
+wrong word: هرسنی
+recommended: هرسین
+expected: سنی
+******************************************
+wrong word: میتران
+recommended: میتوان
+expected: میتوان
+******************************************
+wrong word: اقلا
+recommended: اقلا
+expected: اقلاً
+******************************************
+wrong word: بودکه
+recommended: بودجه
+expected: بود
+******************************************
+wrong word: خیاباند
+recommended: خیابان
+expected: خیابان
+******************************************
+wrong word: دردِدلٍ
+recommended: دردِدلٍ
+expected: دردِدلِ
+******************************************
+wrong word: مثلا
+recommended: مثلا
+expected: مثلاً
+******************************************
+wrong word: مرِاد
+recommended: مرداد
+expected: مراد
+******************************************
+wrong word: امیرم
+recommended: امیرم
+expected: میرم
+******************************************
+wrong word: حتمأ
+recommended: حتما
+expected: حتماً
+******************************************
+wrong word: هاش
+recommended: هاش
+expected: لبهاش
+******************************************
+wrong word: عمومی
+recommended: عمومی
+expected: عمومس
+******************************************
+wrong word: کاملاپر
+recommended: کاملا
+expected: کاملاً
+******************************************
+wrong word: برداشتکه
+recommended: برداشته
+expected: برداشت
+******************************************
+wrong word: مه
+recommended: مه
+expected: *
+******************************************
+wrong word: آدم
+recommended: آدم
+expected: آدمِ
+******************************************
+wrong word: بدبیخت
+recommended: بدبخت
+expected: بدخت
+******************************************
+wrong word: پّخانه
+recommended: پزخانه
+expected: پستخانه
+******************************************
+wrong word: بازر
+recommended: بازی
+expected: باز
+******************************************
+wrong word: زبان
+recommended: زبان
+expected: زبانِ
+******************************************
+wrong word: ربی
+recommended: ربی
+expected: عربی
+******************************************
+wrong word: رط
+recommended: رط
+expected: را
+******************************************
+wrong word: ر
+recommended: و
+expected: که
+******************************************
+wrong word: هیر
+recommended: هیر
+expected: غیر
+******************************************
+wrong word: آایان
+recommended: پایان
+expected: آقایان
+******************************************
+wrong word: کچِرام
+recommended: چرام
+expected: کِرام
+******************************************
+wrong word: ب
+recommended: و
+expected: به
+******************************************
+wrong word: اینث
+recommended: این
+expected: این
+******************************************
+wrong word: تقد
+recommended: نقد
+expected: قد
+******************************************
+wrong word: ببر
+recommended: ببر
+expected: ببریم
+******************************************
+wrong word: خدمیت
+recommended: خدمات
+expected: خدمتِ
+******************************************
+wrong word: آتا
+recommended: آتا
+expected: آقا
+******************************************
+wrong word: شخ
+recommended: شخ
+expected: شیخِ
+******************************************
+wrong word: القّدر
+recommended: القدر
+expected: القَدرِ
+******************************************
+wrong word: غاضلی
+recommended: فاضلی
+expected: فاضلی
+******************************************
+wrong word: وخراهش
+recommended: خواهش
+expected: خواهش
+******************************************
+wrong word: ؛
+recommended: و
+expected: که
+******************************************
+wrong word: آا
+recommended: را
+expected: آقا
+******************************************
+wrong word: فاسی
+recommended: فاسی
+expected: فارسی
+******************************************
+wrong word: ٍ
+recommended: و
+expected: کن
+******************************************
+wrong word: کن
+recommended: کن
+expected: ۲
+******************************************
+wrong word: آا
+recommended: را
+expected: آقا
+******************************************
+wrong word: الا
+recommended: الا
+expected: حالا
+******************************************
+wrong word: تّرَمه
+recommended: ترجمه
+expected: تَرجَمه
+******************************************
+wrong word: دِاشتم
+recommended: داشتم
+expected: داشتم
+******************************************
+wrong word: عِر
+recommended: عصر
+expected: سَر
+******************************************
+wrong word: نمیافتم
+recommended: میافتم
+expected: نمیافتم۳
+******************************************
+wrong word: دم
+recommended: دم
+expected: دمِ
+******************************************
+wrong word: داشّم
+recommended: داشتم
+expected: داشتم
+******************************************
+wrong word: چه
+recommended: چه
+expected: هرچه
+******************************************
+wrong word: آو
+recommended: آو
+expected: اَو
+******************************************
+wrong word: یارثُلی
+recommended: یارعلی
+expected: یارقُلی
+******************************************
+wrong word: من
+recommended: من
+expected: از
+******************************************
+wrong word: زبان
+recommended: زبان
+expected: زبانِ
+******************************************
+wrong word: زبان
+recommended: زبان
+expected: زبانِ
+******************************************
+wrong word: عبری
+recommended: عبری
+expected: عِبری
+******************************************
+wrong word: بخواِن
+recommended: بخوان
+expected: بخوان
+******************************************
+wrong word: مؤمن
+recommended: مؤمن
+expected: مؤمن
+******************************************
+wrong word: زبان
+recommended: زبان
+expected: زبانِ
+******************************************
+wrong word: عبری
+recommended: عبری
+expected: عِبری
+******************************************
+wrong word: زبان
+recommended: زبان
+expected: زبانِ
+******************************************
+wrong word: گبلایی
+recommended: بالایی
+expected: کَبلایی
+******************************************
+wrong word: تّرجّمه
+recommended: ترجمه
+expected: تَرجَمه
+******************************************
+wrong word: قا
+recommended: قا
+expected: قاه
+******************************************
+wrong word: آَفرین
+recommended: آفرین
+expected: آفرین
+******************************************
+wrong word: اسمت
+recommended: اسمت
+expected: -اسمت
+******************************************
+wrong word: بابک
+recommended: بابک
+expected: -بابک
+******************************************
+wrong word: بسیار
+recommended: بسیار
+expected: -بسیار
+******************************************
+wrong word: ونگاه
+recommended: نگاه
+expected: نگاه
+******************************************
+wrong word: هنرٍ
+recommended: هنر
+expected: هنرِ
+******************************************
+wrong word: واقعاً
+recommended: واقعاً
+expected: واقعاٌ
+******************************************
+wrong word: نه
+recommended: نه
+expected: -نه
+******************************************
+wrong word: بانمکاید
+recommended: بنماید
+expected: نمکاید
+******************************************
+wrong word: آقا
+recommended: آقا
+expected: -آقا
+******************************************
+wrong word: خودتان
+recommended: خودتان
+expected: -خودتان
+******************************************
+wrong word: آقا
+recommended: آقا
+expected: -آقا
+******************************************
+wrong word: خب
+recommended: خب
+expected: -خب
+******************************************
+wrong word: اوزْل
+recommended: اول
+expected: اوّل
+******************************************
+wrong word: صرفانظر
+recommended: صرفنظر
+expected: صرفنظر
+******************************************
+wrong word: جاهجا
+recommended: جابجا
+expected: جابهجا
+******************************************
+wrong word: شیو
+recommended: شیو
+expected: شیوع
+******************************************
+wrong word: انواء
+recommended: انواء
+expected: انواع
+******************************************
+wrong word: عدالتی
+recommended: عدالتی
+expected: بیعدالتی
+******************************************
+wrong word: ومناسبات
+recommended: مناسبات
+expected: مناسبات
+******************************************
+wrong word: آایران
+recommended: ایران
+expected: ایران
+******************************************
+wrong word: باکشورهای
+recommended: باکرهای
+expected: کشورهای
+******************************************
+wrong word: وگریخته
+recommended: گریخته
+expected: گریخته
+******************************************
+wrong word: نمایندگّان
+recommended: نمایندگیشان
+expected: نمایندگان
+******************************************
+wrong word: "
+recommended: و
+expected: ۱
+******************************************
+wrong word: موقعیّت
+recommended: موقعیت
+expected: مؤقعیت
+******************************************
+wrong word: جهانخوران
+recommended: جانوران
+expected: جهانخواران
+******************************************
+wrong word: متوجه
+recommended: متوجه
+expected: متوجّه
+******************************************
+wrong word: تصمیگّیران
+recommended: تصمیگّیران
+expected: تصمیمگیران
+******************************************
+wrong word: خوایی
+recommended: هوایی
+expected: خوابی
+******************************************
+wrong word: بدفرجام
+recommended: فرجام
+expected: وبدفرجام
+******************************************
+wrong word: فاصلهی
+recommended: فاصله
+expected: فاصله
+******************************************
+wrong word: نایبالسلطنه
+recommended: نایبالسلطنه
+expected: نایبالسّلطنه
+******************************************
+wrong word: ۰٫۱۰۷
+recommended: ۰٫۱۰۷
+expected: ص۱۰۷
+******************************************
+wrong word: تودهی
+recommended: توجهی
+expected: توده
+******************************************
+wrong word: مساثل
+recommended: مسائل
+expected: مسائل
+******************************************
+wrong word: درباروی
+recommended: دربارهی
+expected: دربارهی
+******************************************
+wrong word: هیِچگاه
+recommended: هیچگاه
+expected: هیچگاه
+******************************************
+wrong word: حقیقتأ
+recommended: حقیقت
+expected: حقیقتاً
+******************************************
+wrong word: ابه
+recommended: ابه
+expected: به
+******************************************
+wrong word: میخواهیدکه
+recommended: میخواهید
+expected: میخواهید
+******************************************
+wrong word: من
+recommended: من
+expected: که
+******************************************
+wrong word: باید
+recommended: باید
+expected: کنید
+******************************************
+wrong word: با
+recommended: با
+expected: باید
+******************************************
+wrong word: من
+recommended: من
+expected: با
+******************************************
+wrong word: هم
+recommended: هم
+expected: من
+******************************************
+wrong word: مساثل
+recommended: مسائل
+expected: مسائل
+******************************************
+wrong word: هماطور
+recommended: همانطور
+expected: همانطور
+******************************************
+wrong word: اینکه
+recommended: اینکه
+expected: واینکه
+******************************************
+wrong word: یادآوری
+recommended: یادآوری
+expected: ویادآوری
+******************************************
+wrong word: ؤ
+recommended: و
+expected: }
+******************************************
+wrong word: روزٍ
+recommended: روز
+expected: روزِ
+******************************************
+wrong word: پریشونه
+recommended: پیشینه
+expected: پیرشونه
+******************************************
+wrong word: اَتْیغ
+recommended: اتلیغ
+expected: اَتّیغ
+******************************************
+wrong word: اَّنشون
+recommended: اَّنشون
+expected: اَتّنشون
+******************************************
+wrong word: نشِسّن
+recommended: نشستن
+expected: نِشِسَّن
+******************************************
+wrong word: تهاسّکامی
+recommended: تهاسّکامی
+expected: اسّکامی
+******************************************
+wrong word: بیبینم
+recommended: میبینم
+expected: ببینم
+******************************************
+wrong word: نمیگیرمکه
+recommended: نمیگیرمکه
+expected: نمیگیرم
+******************************************
+wrong word: نورم
+recommended: نورم
+expected: بینورم
+******************************************
+wrong word: چّن
+recommended: چون
+expected: چَن
+******************************************
+wrong word: دسٌ
+recommended: دست
+expected: دسّ
+******************************************
+wrong word: یه
+recommended: یه
+expected: مگه
+******************************************
+wrong word: خورده
+recommended: خورده
+expected: یهخورده
+******************************************
+wrong word: تُه
+recommended: ته
+expected: نُه
+******************************************
+wrong word: گاگداری
+recommended: گاوداری
+expected: گاگُداری
+******************************************
+wrong word: وجود
+recommended: وجود
+expected: باوجود
+******************************************
+wrong word: همه
+recommended: همه
+expected: همۀ
+******************************************
+wrong word: وانمی
+recommended: خانمی
+expected: وانمیدم
+******************************************
+wrong word: وجود
+recommended: وجود
+expected: باوجود
+******************************************
+wrong word: آپّشت
+recommended: پشت
+expected: اَپّشت
+******************************************
+wrong word: کارٍ
+recommended: کار
+expected: کارِ
+******************************************
+wrong word: چی
+recommended: چی
+expected: -چی
+******************************************
+wrong word: خوب
+recommended: خوب
+expected: -خوب
+******************************************
+wrong word: بمالم
+recommended: بمانم
+expected: بمانم
+******************************************
+wrong word: خوب
+recommended: خوب
+expected: -خوب
+******************************************
+wrong word: اصلا
+recommended: اصلا
+expected: اصلاً
+******************************************
+wrong word: مانداند
+recommended: ماندهاند
+expected: ماندهاند
+******************************************
+wrong word: کلوتر
+recommended: جلوتر
+expected: -کلوتر
+******************************************
+wrong word: ۰ولی
+recommended: ولی
+expected: ولی
+******************************************
+wrong word: مادر
+recommended: مادر
+expected: مادرش
+******************************************
+wrong word: اجازه
+recommended: اجازه
+expected: اجازش
+******************************************
+wrong word: بیا
+recommended: بیا
+expected: -بیا
+******************************************
+wrong word: ولی
+recommended: ولی
+expected: -ولی
+******************************************
+wrong word: خوب
+recommended: خوب
+expected: -خوب
+******************************************
+wrong word: مگر
+recommended: مگر
+expected: -مگر
+******************************************
+wrong word: آَرمانگرایی
+recommended: آرمانگرایی
+expected: آرمانگرایی
+******************************************
+wrong word: خواسته
+recommended: خواسته
+expected: خواستهٔ
+******************************************
+wrong word: شاهزاده
+recommended: شاهزاده
+expected: شاهزادهٔ
+******************************************
+wrong word: رؤیاهایش
+recommended: رویاهایش
+expected: رؤیاهایش
+******************************************
+wrong word: ساله
+recommended: ساله
+expected: سالۀ
+******************************************
+wrong word: روحیه
+recommended: روحیه
+expected: روحیهٔ
+******************************************
+wrong word: سرز
+recommended: سر
+expected: بر
+******************************************
+wrong word: آنتوان
+recommended: آنتوان
+expected: آنتوان۱
+******************************************
+wrong word: جلسه
+recommended: جلسه
+expected: جلسهٔ
+******************************************
+wrong word: کاملاً
+recommended: کاملاً
+expected: کاملاٌ
+******************************************
+wrong word: بیتفاوت
+recommended: بیتفاوت
+expected: تفاوت
+******************************************
+wrong word: اجازه
+recommended: اجازه
+expected: جازه
+******************************************
+wrong word: گندمگون
+recommended: گندمگون
+expected: گندومگون
+******************************************
+wrong word: مشخصه
+recommended: مشخصه
+expected: مشخصهٔ
+******************************************
+wrong word: همه
+recommended: همه
+expected: همهٔ
+******************************************
+wrong word: فچنانکه
+recommended: چنانکه
+expected: چنانکه
+******************************************
+wrong word: همینکه
+recommended: همینکه
+expected: همین
+******************************************
+wrong word: فنعّالیت
+recommended: فعالیت
+expected: فعّالیت
+******************************************
+wrong word: بزرگک
+recommended: بزرگ
+expected: بزرگ
+******************************************
+wrong word: دانشجریان
+recommended: دانشجویان
+expected: دانشجویان
+******************************************
+wrong word: داشتندکه
+recommended: داشتند
+expected: داشتند
+******************************************
+wrong word: کاملاً
+recommended: کاملاً
+expected: کاملا
+******************************************
+wrong word: ملاحظه
+recommended: ملاحظه
+expected: ملاحضه
+******************************************
+wrong word: محبّت
+recommended: محبت
+expected: محبت
+******************************************
+wrong word: ما
+recommended: ما
+expected: را
+******************************************
+wrong word: رابه
+recommended: رابه
+expected: به
+******************************************
+wrong word: تأسّف
+recommended: تأسف
+expected: تأسف
+******************************************
+wrong word: وگفت
+recommended: گفت
+expected: گفت
+******************************************
+wrong word: اما
+recommended: اما
+expected: ما
+******************************************
+wrong word: میدانمکه
+recommended: میدانم
+expected: میدانم
+******************************************
+wrong word: سوءه
+recommended: سوء
+expected: سوء
+******************************************
+wrong word: اعزیزم
+recommended: عزیزم
+expected: عزیزم
+******************************************
+wrong word: وجوی
+recommended: وجود
+expected: جوی
+******************************************
+wrong word: مثل
+recommended: مثل
+expected: من
+******************************************
+wrong word: عزیز
+recommended: عزیز
+expected: وعزیز
+******************************************
+wrong word: دردانه
+recommended: دردانه
+expected: دردانۀ
+******************************************
+wrong word: بار
+recommended: بار
+expected: هربار
+******************************************
+wrong word: کلمه
+recommended: کلمه
+expected: کلمۀ
+******************************************
+wrong word: بالاخره
+recommended: بالاخره
+expected: بالأخره
+******************************************
+wrong word: سگرمههاشٍ
+recommended: سگرمههاشٍ
+expected: سگرمههاش
+******************************************
+wrong word: حتما
+recommended: حتما
+expected: حتماً
+******************************************
+wrong word: گفت
+recommended: گفت
+expected: وگفت
+******************************************
+wrong word: و
+recommended: و
+expected: ؛
+******************************************
+wrong word: برای
+recommended: برای
+expected: وبرای
+******************************************
+wrong word: دستِش
+recommended: دستش
+expected: دستش
+******************************************
+wrong word: بالاخره
+recommended: بالاخره
+expected: بالأخره
+******************************************
+wrong word: پرسیدیم
+recommended: پرسیدیم
+expected: پرسیدم
+******************************************
+wrong word: پرسشی
+recommended: پرسشی
+expected: پرسش
+******************************************
+wrong word: حیلم
+recommended: حیلم
+expected: حرام
+******************************************
+wrong word: حرامٍ
+recommended: حرام
+expected: حرام
+******************************************
+wrong word: حلهال
+recommended: حلال
+expected: حلال
+******************************************
+wrong word: است
+recommended: است
+expected: است۱
+******************************************
+wrong word: وظیفه
+recommended: وظیفه
+expected: وظیفۀ
+******************************************
+wrong word: استکه
+recommended: استه
+expected: است
+******************************************
+wrong word: هنگامی
+recommended: هنگامی
+expected: اوهنگامی
+******************************************
+wrong word: آمدکه
+recommended: آمده
+expected: آمد
+******************************************
+wrong word: دعوتناههای
+recommended: دعوتناههای
+expected: دعوتنامههای
+******************************************
+wrong word: روزیکه
+recommended: روزینه
+expected: روزی
+******************************************
+wrong word: با
+recommended: با
+expected: که
+******************************************
+wrong word: سپا
+recommended: سپس
+expected: با
+******************************************
+wrong word: فرمانده
+recommended: فرمانده
+expected: وفرمانده
+******************************************
+wrong word: بیا
+recommended: بیا
+expected: بیاری
+******************************************
+wrong word: آگر
+recommended: اگر
+expected: اگر
+******************************************
+wrong word: سخن
+recommended: سخن
+expected: سخنان
+******************************************
+wrong word: برَگشتهاند
+recommended: برگشتهاند
+expected: برگشتهاند
+******************************************
+wrong word: من
+recommended: من
+expected: به
+******************************************
+wrong word: بهحجاز
+recommended: حجاز
+expected: حجاز
+******************************************
+wrong word: طاعت
+recommended: طاعت
+expected: اطاعت
+******************************************
+wrong word: نمیگردند
+recommended: میگردند
+expected: برنمیگردند
+******************************************
+wrong word: آنجاکه
+recommended: آنجا
+expected: آنجا
+******************************************
+wrong word: حلی
+recommended: حلی
+expected: حتی
+******************************************
+wrong word: اگر
+recommended: اگر
+expected: از
+******************************************
+wrong word: فرماندا
+recommended: فرمانده
+expected: فرماندار
+******************************************
+wrong word: رکوفه
+recommended: کوفه
+expected: کوفه
+******************************************
+wrong word: کی
+recommended: کی
+expected: یکی
+******************************************
+wrong word: رخواستها
+recommended: درخواستها
+expected: درخواستها
+******************************************
+wrong word: بودکه
+recommended: بودجه
+expected: بود
+******************************************
+wrong word: رگز
+recommended: روز
+expected: هرگز
+******************************************
+wrong word: نمییذیرفت
+recommended: نمییذیرفت
+expected: نمیپذیرفت
+******************************************
+wrong word: چنانکهو
+recommended: چنانکه
+expected: چنانکه
+******************************************
+wrong word: را
+recommended: را
+expected: چرا
+******************************************
+wrong word: پاسخ
+recommended: پاسخ
+expected: بیپاسخ
+******************************************
+wrong word: نویسانذقدیم
+recommended: نویسانذقدیم
+expected: نویسانقدیم
+******************************************
+wrong word: هم
+recommended: هم
+expected: --
+******************************************
+wrong word: بهجنبه
+recommended: بهانه
+expected: بهجنبۀ
+******************************************
+wrong word: زرویدادها
+recommended: رویدادها
+expected: رویدادها
+******************************************
+wrong word: سی
+recommended: سی
+expected: آن
+******************************************
+wrong word: آنهم
+recommended: آنهم
+expected: هم
+******************************************
+wrong word: آگر
+recommended: اگر
+expected: اگر
+******************************************
+wrong word: وظیفهٔ
+recommended: وظیفه
+expected: وظیفۀ
+******************************************
+wrong word: مسسلما
+recommended: مسلما
+expected: مسلماً
+******************************************
+wrong word: ریخ
+recommended: ریخ
+expected: تاریخ
+******************************************
+wrong word: حادَه
+recommended: حادثه
+expected: حادثه
+******************************************
+wrong word: ۶
+recommended: و
+expected: ۶۱
+******************************************
+wrong word: حادتههایی
+recommended: حادثههایی
+expected: حادثههایی
+******************************************
+wrong word: استکه
+recommended: استه
+expected: است
+******************************************
+wrong word: بابد
+recommended: باید
+expected: باید
+******************************************
+wrong word: طبر
+recommended: طبر
+expected: طبری
+******************************************
+wrong word: ادث
+recommended: ادب
+expected: حوادث
+******************************************
+wrong word: سا
+recommended: سا
+expected: سال
+******************************************
+wrong word: ل۶۱
+recommended: لیگ
+expected: ۶۱
+******************************************
+wrong word: ببندد
+recommended: ببندد
+expected: ببند
+******************************************
+wrong word: حقً
+recommended: حق
+expected: حقّ
+******************************************
+wrong word: کارٍ
+recommended: کار
+expected: کارِ
+******************************************
+wrong word: سال
+recommended: سال
+expected: را
+******************************************
+wrong word: راپس
+recommended: راس
+expected: –پس
+******************************************
+wrong word: نوشتن
+recommended: نوشتن
+expected: نوشته
+******************************************
+wrong word: ؟
+recommended: و
+expected: -
+******************************************
+wrong word: ۳با
+recommended: با
+expected: با
+******************************************
+wrong word: ببندد
+recommended: ببندد
+expected: ببند
+******************************************
+wrong word: حقً
+recommended: حق
+expected: حقّ
+******************************************
+wrong word: تألیفبگیران
+recommended: تألیفبگیران
+expected: تألیفبگیرانِ
+******************************************
+wrong word: سالٍها
+recommended: سالها
+expected: سالها
+******************************************
+wrong word: اسمٍ
+recommended: اسم
+expected: اسمِ
+******************************************
+wrong word: آّنها
+recommended: آنها
+expected: آنها
+******************************************
+wrong word: امونترلان
+recommended: مونترلان
+expected: مونترلان
+******************************************
+wrong word: ژُرژ
+recommended: ژرژ
+expected: ژرژ
+******************************************
+wrong word: میروَد
+recommended: میرود
+expected: میرَود
+******************************************
+wrong word: حالٍ
+recommended: حال
+expected: حالِ
+******************************************
+wrong word: کنده
+recommended: کنده
+expected: کَنده
+******************************************
+wrong word: قریحه
+recommended: قریحه
+expected: قریحهٔ
+******************************************
+wrong word: سبک
+recommended: سبک
+expected: سبکِ
+******************************************
+wrong word: نقاشٍِ
+recommended: نقاشی
+expected: نقّاشِ
+******************************************
+wrong word: اندازه
+recommended: اندازه
+expected: اندازهٔ
+******************************************
+wrong word: صفحه
+recommended: صفحه
+expected: صفحهٔ
+******************************************
+wrong word: عادی
+recommended: عادی
+expected: عادیِ
+******************************************
+wrong word: نقاشی
+recommended: نقاشی
+expected: –نقّاشی
+******************************************
+wrong word: سفید
+recommended: سفید
+expected: سفید-
+******************************************
+wrong word: صد
+recommended: صد
+expected: و
+******************************************
+wrong word: واین
+recommended: واین
+expected: این
+******************************************
+wrong word: نرحخٍ
+recommended: نرخ
+expected: نرخِ
+******************************************
+wrong word: داخلٍ
+recommended: داخلی
+expected: داخلِ
+******************************************
+wrong word: روا
+recommended: روا
+expected: روان
+******************************************
+wrong word: (
+recommended: و
+expected: –
+******************************************
+wrong word: فرهنگی
+recommended: فرهنگی
+expected: فرهنگیِ
+******************************************
+wrong word: )
+recommended: و
+expected: -
+******************************************
+wrong word: این
+recommended: این
+expected: الخ
+******************************************
+wrong word: که
+recommended: که
+expected: و
+******************************************
+wrong word: ما
+recommended: ما
+expected: که
+******************************************
+wrong word: به
+recommended: به
+expected: ما
+******************************************
+wrong word: خاطر
+recommended: خاطر
+expected: بخاطر
+******************************************
+wrong word: بنویسم
+recommended: بنویسم
+expected: بنوسم
+******************************************
+wrong word: بفرستد
+recommended: بفرستد
+expected: بفرست
+******************************************
+wrong word: کار
+recommended: کار
+expected: کارِ
+******************************************
+wrong word: بندگانٍ
+recommended: بندگان
+expected: بندگانِ
+******************************************
+wrong word: آبٍ
+recommended: آب
+expected: آبِ
+******************************************
+wrong word: سانسورٍ
+recommended: سانسور
+expected: سانسورِ
+******************************************
+wrong word: درحال
+recommended: درحال
+expected: حال
+******************************************
+wrong word: ازجایش
+recommended: اجزایش
+expected: جایش
+******************************************
+wrong word: مالین
+recommended: مالین
+expected: مارلین
+******************************************
+wrong word: شدت
+recommended: شدت
+expected: شدّت
+******************************************
+wrong word: به
+recommended: به
+expected: او
+******************************************
+wrong word: اواشاره
+recommended: اشاره
+expected: اشاره
+******************************************
+wrong word: االطفاً
+recommended: الاطفال
+expected: لطفاً
+******************************************
+wrong word: بنشینید
+recommended: بنشینید
+expected: بنشیند
+******************************************
+wrong word: ولرز
+recommended: ولز
+expected: لرز
+******************************************
+wrong word: میدرخشید
+recommended: میدرخشید
+expected: درخشید
+******************************************
+wrong word: وترس
+recommended: ترس
+expected: ترس
+******************************************
+wrong word: درحالی
+recommended: درحالی
+expected: حالی
+******************************************
+wrong word: دندان
+recommended: دندان
+expected: دندانکش
+******************************************
+wrong word: ُب
+recommended: آب
+expected: خُب
+******************************************
+wrong word: کامل
+recommended: کامل
+expected: کاملاً
+******************************************
+wrong word: وپایش
+recommended: پایش
+expected: پایش
+******************************************
+wrong word: واهش
+recommended: کاهش
+expected: خواهش
+******************************************
+wrong word: میّکنم
+recommended: میکنم
+expected: میکنم
+******************************************
+wrong word: باکمی
+recommended: باکری
+expected: کمی
+******************************************
+wrong word: بهمن
+recommended: بهمن
+expected: من
+******************************************
+wrong word: متأسّفانه
+recommended: متأسفانه
+expected: متأسّفانه
+******************************************
+wrong word: نمیشده
+recommended: نمیده
+expected: نمیشد
+******************************************
+wrong word: سررفته
+recommended: سررفته
+expected: سرفته
+******************************************
+wrong word: امقا
+recommended: اما
+expected: امّا
+******************************************
+wrong word: از
+recommended: از
+expected: که
+******************************************
+wrong word: میترسید
+recommended: میترسید
+expected: ترسید
+******************************************
+wrong word: الطفاً
+recommended: لطفاً
+expected: لطفاً
+******************************************
+wrong word: فورآ
+recommended: فوری
+expected: فوراً
+******************************************
+wrong word: بهخود
+recommended: بهبود
+expected: خود
+******************************************
+wrong word: بهپهلوی
+recommended: بپهلوی
+expected: پهلوی
+******************************************
+wrong word: آخ۰
+recommended: آخر
+expected: آخ
+******************************************
+wrong word: آملت
+recommended: آملت
+expected: اُملت
+******************************************
+wrong word: این
+recommended: این
+expected: از
+******************************************
+wrong word: کراوات
+recommended: کراوات
+expected: کروات
+******************************************
+wrong word: گوشواره
+recommended: گوشواره
+expected: گوشوارهٔ
+******************************************
+wrong word: راحتالحلقوم
+recommended: راحتالحلقوم
+expected: راحتالحلقوم*
+******************************************
+wrong word: نعناعی
+recommended: نعناعی
+expected: نعنایی
+******************************************
+wrong word: دنیایی
+recommended: دنیایی
+expected: دنیای
+******************************************
+wrong word: خَل
+recommended: خیل
+expected: خُل
+******************************************
+wrong word: گفت
+recommended: گفت
+expected: گفت*۱
+******************************************
+wrong word: نِوشی
+recommended: نوشی
+expected: نوشی
+******************************************
+wrong word: کار
+recommended: کار
+expected: کارْ
+******************************************
+wrong word: دارد
+recommended: دارد
+expected: دارد۲
+******************************************
+wrong word: طاعتکه
+recommended: ساعته
+expected: طاعت
+******************************************
+wrong word: ؟
+recommended: و
+expected: ؛
+******************************************
+wrong word: را
+recommended: را
+expected: از
+******************************************
+wrong word: ازآنچه
+recommended: آنچه
+expected: آنچه
+******************************************
+wrong word: است
+recommended: است
+expected: است۳
+******************************************
+wrong word: عشق
+recommended: عشق
+expected: عشقْ
+******************************************
+wrong word: بیعثق
+recommended: باعث
+expected: بیعشقْ
+******************************************
+wrong word: مردم
+recommended: مردم
+expected: مردمْ
+******************************************
+wrong word: قصه
+recommended: قصه
+expected: قصۀ
+******************************************
+wrong word: بی
+recommended: بی
+expected: بی-
+******************************************
+wrong word: یلکس
+recommended: الکس
+expected: کس
+******************************************
+wrong word: دوستان
+recommended: دوستان
+expected: دوستانِ
+******************************************
+wrong word: برستی
+recommended: درستی
+expected: برَستی
+******************************************
+wrong word: اگّر
+recommended: اگر
+expected: اگر
+******************************************
+wrong word: یککس
+recommended: ککس
+expected: کس
+******************************************
+wrong word: دوستان
+recommended: دوستان
+expected: دوستانِ
+******************************************
+wrong word: هرکه
+recommended: هرچه
+expected: که
+******************************************
+wrong word: حق
+recommended: حق
+expected: حقِّ
+******************************************
+wrong word: برست
+recommended: برست
+expected: بِرَست
+******************************************
+wrong word: دانستکه
+recommended: دانسته
+expected: دانست
+******************************************
+wrong word: "
+recommended: و
+expected: که
+******************************************
+wrong word: قسمت
+recommended: قسمت
+expected: قسمتِ
+******************************************
+wrong word: بِرست
+recommended: بفرست
+expected: بِرَست
+******************************************
+wrong word: طومار
+recommended: طومار
+expected: طومارِ
+******************************************
+wrong word: خط
+recommended: خط
+expected: خط*
+******************************************
+wrong word: گکفتار
+recommended: گرفتار
+expected: گفتارِ
+******************************************
+wrong word: سّقّط
+recommended: سقوط
+expected: سَقَط
+******************************************
+wrong word: میپندارندکه
+recommended: میپندارند
+expected: میپندارند
+******************************************
+wrong word: هردو
+recommended: هردو
+expected: دو
+******************************************
+wrong word: ۱
+recommended: و
+expected: ۱-
+******************************************
+wrong word: ۲
+recommended: و
+expected: ۲-
+******************************************
+wrong word: عنات
+recommended: عنایت
+expected: عنایت
+******************************************
+wrong word: ۳
+recommended: و
+expected: ۳-
+******************************************
+wrong word: پس
+recommended: پس
+expected: پسر
+******************************************
+wrong word: اوا
+recommended: اوا
+expected: اورا
+******************************************
+wrong word: ۰
+recommended: و
+expected: )
+******************************************
+wrong word: ۴
+recommended: و
+expected: ۴-
+******************************************
+wrong word: خطاء
+recommended: خطاء
+expected: خطا
+******************************************
+wrong word: رالل
+recommended: راحل
+expected: رسائل
+******************************************
+wrong word: ۶
+recommended: و
+expected: ۶-
+******************************************
+wrong word: پرواکرده
+recommended: پراکنده
+expected: پروازکرده
+******************************************
+wrong word: را
+recommended: را
+expected: به
+******************************************
+wrong word: بهقرون
+recommended: بهرون
+expected: قرون
+******************************************
+wrong word: جدد
+recommended: جدد
+expected: جدید
+******************************************
+wrong word: دنظر
+recommended: نظر
+expected: ونظر
+******************************************
+wrong word: بهقرن
+recommended: بهتر
+expected: قرن
+******************************************
+wrong word: پم
+recommended: پم
+expected: (
+******************************************
+wrong word: ۱ندشه
+recommended: فندشه
+expected: اندیشه
+******************************************
+wrong word: ددلت
+recommended: دولت
+expected: دولت
+******************************************
+wrong word: سااهای
+recommended: سالهای
+expected: سالهای
+******************************************
+wrong word: قرن۱۶
+recommended: قرن
+expected: قرن
+******************************************
+wrong word: سرعی
+recommended: سرعت
+expected: سریعی
+******************************************
+wrong word: دراروپای
+recommended: درازپای
+expected: اروپای
+******************************************
+wrong word: ملیکه
+recommended: ملکه
+expected: ملی
+******************************************
+wrong word: بود
+recommended: بود
+expected: بوجود
+******************************************
+wrong word: نماند
+recommended: نماید
+expected: نمایند
+******************************************
+wrong word: فر
+recommended: فر
+expected: که
+******************************************
+wrong word: بودند
+recommended: بودند
+expected: بوجود
+******************************************
+wrong word: هم
+recommended: هم
+expected: درهم
+******************************************
+wrong word: شَکست
+recommended: شکست
+expected: شکست
+******************************************
+wrong word: مسلما
+recommended: مسلما
+expected: مسلماً
+******************************************
+wrong word: درفلسفه
+recommended: فلسفه
+expected: فلسفه
+******************************************
+wrong word: ماکیاوای
+recommended: ماکیاولی
+expected: ماکیاولی
+******************************************
+wrong word: اشالیائی
+recommended: ایتالیائی
+expected: ایتالیائی
+******************************************
+wrong word: تقربا
+recommended: تقریبا
+expected: تقریباً
+******************************************
+wrong word: تها
+recommended: تا
+expected: تنها
+******************************************
+wrong word: اینمسائلرا
+recommended: اینمسائلرا
+expected: واینمسائلرا
+******************************************
+wrong word: مذهبیاخلاقی
+recommended: مذهبیاخلاقی
+expected: مذهبیواخلاقی
+******************************************
+wrong word: ازامان
+recommended: امامان
+expected: ازایمان
+******************************************
+wrong word: واعتقادامخالف
+recommended: واعتقادامخالف
+expected: واعتقادیامخالف
+******************************************
+wrong word: سائل
+recommended: سائل
+expected: وسائل
+******************************************
+wrong word: اخلاق
+recommended: اخلاق
+expected: اخلافق
+******************************************
+wrong word: زمامداران
+recommended: زمامدارشان
+expected: زمانداران
+******************************************
+wrong word: مینماد
+recommended: مینماید
+expected: مینماید
+******************************************
+wrong word: ولیهیچکاه
+recommended: ولیهیچکاه
+expected: ولیهیچگاه
+******************************************
+wrong word: شاک
+recommended: شاک
+expected: شک
+******************************************
+wrong word: اخلاکق
+recommended: اخلاق
+expected: اخلاق
+******************************************
+wrong word: مبارزه
+recommended: مبارزه
+expected: مبارزۀ
+******************************************
+wrong word: زمان
+recommended: زمان
+expected: درزمان
+******************************************
+wrong word: دلیرانه
+recommended: دلیرانه
+expected: دلیرانۀ
+******************************************
+wrong word: فارس
+recommended: فارس
+expected: فارسی
+******************************************
+wrong word: علیرغم
+recommended: علیرغم
+expected: وعلیرغم
+******************************************
+wrong word: مقاومت
+recommended: مقاومت
+expected: ماقومت
+******************************************
+wrong word: ستمگران
+recommended: ستارگان
+expected: سمتگران
+******************************************
+wrong word: گرده
+recommended: گرده
+expected: گردۀ
+******************************************
+wrong word: تشنه
+recommended: تشنه
+expected: تشنۀ
+******************************************
+wrong word: ۵
+recommended: و
+expected: -
+******************************************
+wrong word: )
+recommended: و
+expected: -
+******************************************
+wrong word: تلقی
+recommended: تلقی
+expected: تلفن
+******************************************
+wrong word: ۶
+recommended: و
+expected: ۱۳
+******************************************
+wrong word: )
+recommended: و
+expected: ۱۵
+******************************************
+wrong word: سه
+recommended: سه
+expected: و
+******************************************
+wrong word: ۹۲
+recommended: و
+expected: که
+******************************************
+wrong word: ۶
+recommended: و
+expected: و
+******************************************
+wrong word: ۱۹
+recommended: و
+expected: (
+******************************************
+wrong word: و
+recommended: و
+expected: ۵
+******************************************
+wrong word: پس
+recommended: پس
+expected: )
+******************************************
+wrong word: نام
+recommended: نام
+expected: را
+******************************************
+wrong word: که
+recommended: که
+expected: تا
+******************************************
+wrong word: و
+recommended: و
+expected: ۹۲
+******************************************
+wrong word: ۵
+recommended: و
+expected: ۶
+******************************************
+wrong word: )
+recommended: و
+expected: ۱۶
+******************************************
+wrong word: از
+recommended: از
+expected: به
+******************************************
+wrong word: را
+recommended: را
+expected: (
+******************************************
+wrong word: تا
+recommended: تا
+expected: تاتر
+******************************************
+wrong word: به
+recommended: به
+expected: ۳
+******************************************
+wrong word: در
+recommended: در
+expected: )
+******************************************
+wrong word: (
+recommended: و
+expected: ۱۴
+******************************************
+wrong word: ۳
+recommended: و
+expected: و
+******************************************
+wrong word: )
+recommended: و
+expected: به
+******************************************
+wrong word: ۴
+recommended: و
+expected: (
+******************************************
+wrong word: و
+recommended: و
+expected: پس
+******************************************
+wrong word: بازیکن
+recommended: بازیکن
+expected: بازی
+******************************************
+wrong word: از
+recommended: از
+expected: )
+******************************************
+wrong word: صادر
+recommended: صادر
+expected: در
+******************************************
+wrong word: )
+recommended: و
+expected: ۱۰
+******************************************
+wrong word: بدون
+recommended: بدون
+expected: بین
+******************************************
+wrong word: ۱۰
+recommended: و
+expected: دو
+******************************************
+wrong word: دو
+recommended: دو
+expected: ۱۶
+******************************************
+wrong word: هر
+recommended: هر
+expected: در
+******************************************
+wrong word: روز
+recommended: روز
+expected: از
+******************************************
+wrong word: تا۱۵
+recommended: تا
+expected: ۱۵
+******************************************
+wrong word: از
+recommended: از
+expected: ۱۷
+******************************************
+wrong word: ۱۵
+recommended: و
+expected: در
+******************************************
+wrong word: بازنده
+recommended: بازنده
+expected: برنده
+******************************************
+wrong word: تیم
+recommended: تیم
+expected: ذیل
+******************************************
+wrong word: ذیل
+recommended: ذیل
+expected: اول
+******************************************
+wrong word: اول
+recommended: اول
+expected: فوق
+******************************************
+wrong word: سوم
+recommended: سوم
+expected: تیم
+******************************************
+wrong word: در
+recommended: در
+expected: را
+******************************************
+wrong word: در
+recommended: در
+expected: عدم
+******************************************
+wrong word: همه
+recommended: همه
+expected: هر
+******************************************
+wrong word: را
+recommended: را
+expected: در
+******************************************
+wrong word: در
+recommended: در
+expected: شده
+******************************************
+wrong word: در
+recommended: در
+expected: و
+******************************************
+wrong word: هر
+recommended: هر
+expected: از
+******************************************
+wrong word: به
+recommended: به
+expected: و
+******************************************
+wrong word: از
+recommended: از
+expected: آن
+******************************************
+wrong word: و
+recommended: و
+expected: ۲۰
+******************************************
+wrong word: از
+recommended: از
+expected: در
+******************************************
+wrong word: کلیه
+recommended: کلیه
+expected: که
+******************************************
+wrong word: حذف
+recommended: حذف
+expected: حین
+******************************************
+wrong word: و
+recommended: و
+expected: از
+******************************************
+wrong word: آن
+recommended: آن
+expected: به
+******************************************
+wrong word: در
+recommended: در
+expected: هر
+******************************************
+wrong word: از
+recommended: از
+expected: به
+******************************************
+wrong word: به
+recommended: به
+expected: از
+******************************************
+wrong word: هر
+recommended: هر
+expected: در
+******************************************
+wrong word: علتی
+recommended: علتی
+expected: آتی
+******************************************
+wrong word: به
+recommended: به
+expected: در
+******************************************
+wrong word: موارد
+recommended: موارد
+expected: مواردی
+******************************************
+wrong word: از
+recommended: از
+expected: که
+******************************************
+wrong word: در
+recommended: در
+expected: یک
+******************************************
+wrong word: آتی
+recommended: آتی
+expected: تیم
+******************************************
+wrong word: عدم
+recommended: عدم
+expected: در
+******************************************
+wrong word: یک
+recommended: یک
+expected: این
+******************************************
+wrong word: تیم
+recommended: تیم
+expected: تصمیم
+******************************************
+wrong word: بازیکن
+recommended: بازیکن
+expected: بازی
+******************************************
+wrong word: در
+recommended: در
+expected: هر
+******************************************
+wrong word: یک
+recommended: یک
+expected: به
+******************************************
+wrong word: رده
+recommended: رده
+expected: در
+******************************************
+wrong word: سنی
+recommended: سنی
+expected: آن
+******************************************
+wrong word: و
+recommended: و
+expected: از
+******************************************
+wrong word: سایر
+recommended: سایر
+expected: این
+******************************************
+wrong word: بهخنده
+recommended: بدخنده
+expected: خنده
+******************************************
+wrong word: په
+recommended: په
+expected: به
+******************************************
+wrong word: گفتکه
+recommended: گفته
+expected: گفت
+******************************************
+wrong word: شب
+recommended: شب
+expected: به
+******************************************
+wrong word: بهروز
+recommended: بهروز
+expected: روز
+******************************************
+wrong word: تو
+recommended: تو
+expected: کی
+******************************************
+wrong word: را
+recommended: را
+expected: تورا
+******************************************
+wrong word: بهدست
+recommended: بدست
+expected: دست
+******************************************
+wrong word: بهراهزن
+recommended: راهزن
+expected: راهزن
+******************************************
+wrong word: تن
+recommended: تن
+expected: به
+******************************************
+wrong word: بهنیستی
+recommended: بهزیستی
+expected: نیستی
+******************************************
+wrong word: دگر
+recommended: دگر
+expected: دگرنه
+******************************************
+wrong word: راء
+recommended: را
+expected: راه
+******************************************
+wrong word: عروسر
+recommended: عروس
+expected: عروس
+******************************************
+wrong word: رقیّه
+recommended: رقیه
+expected: رقیه
+******************************************
+wrong word: همانکه
+recommended: همینکه
+expected: همان
+******************************************
+wrong word: گاء
+recommended: گاز
+expected: گاه
+******************************************
+wrong word: خانه
+recommended: خانه
+expected: خانهٔ
+******************************************
+wrong word: پلقیس
+recommended: پلیس
+expected: بِلقیس
+******************************************
+wrong word: سّبا
+recommended: سبا
+expected: سَبا
+******************************************
+wrong word: آّصف
+recommended: آصف
+expected: آصف
+******************************************
+wrong word: آّورید
+recommended: آورید
+expected: آورید
+******************************************
+wrong word: عالی
+recommended: عالی
+expected: عالمی
+******************************************
+wrong word: ازسوی
+recommended: ازوی
+expected: سوی
+******************************************
+wrong word: اّعلام
+recommended: اعلام
+expected: اَعلام
+******************************************
+wrong word: آررد
+recommended: آورد
+expected: آورد
+******************************************
+wrong word: ور
+recommended: ور
+expected: و
+******************************************
+wrong word: بتدگان
+recommended: بندگان
+expected: بندگان
+******************************************
+wrong word: شا
+recommended: شا
+expected: شاه
+******************************************
+wrong word: ریکتا
+recommended: یکتا
+expected: یکتا
+******************************************
+wrong word: خسرویه
+recommended: خسرویه
+expected: خسرو
+******************************************
+wrong word: مأ
+recommended: ما
+expected: ماه
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: توکوکب
+recommended: کوکب
+expected: کوکب
+******************************************
+wrong word: تدید
+recommended: جدید
+expected: ندید
+******************************************
+wrong word: انر
+recommended: انر
+expected: اندر
+******************************************
+wrong word: سرأسر
+recommended: سراسر
+expected: سراسر
+******************************************
+wrong word: بتانٍ
+recommended: بتانی
+expected: بتانِ
+******************************************
+wrong word: دوسثتً
+recommended: دوست
+expected: دوستْ
+******************************************
+wrong word: دشمن
+recommended: دشمن
+expected: دشمنْ
+******************************************
+wrong word: ییاید
+recommended: باید
+expected: بیاید
+******************************************
+wrong word: حنر
+recommended: حنر
+expected: حذر
+******************************************
+wrong word: ستکام
+recommended: سنتکام
+expected: کام
+******************************************
+wrong word: نیکوران
+recommended: نیاوران
+expected: نیکوان
+******************************************
+wrong word: مثر
+recommended: مهر
+expected: نثر
+******************************************
+wrong word: قتدهار
+recommended: قندهار
+expected: قندهار
+******************************************
+wrong word: سایهار
+recommended: سایهای
+expected: سایهٔاو
+******************************************
+wrong word: الاُرزاق
+recommended: الارزاق
+expected: الاْرزاق
+******************************************
+wrong word: انر
+recommended: انر
+expected: اندر
+******************************************
+wrong word: آمداز
+recommended: آماز
+expected: آمد
+******************************************
+wrong word: دران
+recommended: دران
+expected: دوان
+******************************************
+wrong word: آّحوی
+recommended: نحوی
+expected: آهوی
+******************************************
+wrong word: خته
+recommended: خسته
+expected: خسته
+******************************************
+wrong word: نّوان
+recommended: نتوان
+expected: نَوان
+******************************************
+wrong word: هتر
+recommended: هتر
+expected: هنر
+******************************************
+wrong word: اآثار
+recommended: آثار
+expected: آثار
+******************************************
+wrong word: یپیچد
+recommended: میپیچد
+expected: بپیچد
+******************************************
+wrong word: یداندیش
+recommended: بداندیش
+expected: بداندیش
+******************************************
+wrong word: تیش
+recommended: تیش
+expected: نیش
+******************************************
+wrong word: گردداز
+recommended: گردد
+expected: گردد
+******************************************
+wrong word: تو
+recommended: تو
+expected: از
+******************************************
+wrong word: سخر
+recommended: سخر
+expected: شعر
+******************************************
+wrong word: ملال
+recommended: ملال
+expected: حلال
+******************************************
+wrong word: هر
+recommended: هر
+expected: هنر
+******************************************
+wrong word: اّخر
+recommended: اذخر
+expected: آخر
+******************************************
+wrong word: بسگال
+recommended: بنگال
+expected: بدسگال
+******************************************
+wrong word: مشمت
+recommended: مشمت
+expected: حشمت
+******************************************
+wrong word: سزارار
+recommended: سزاوار
+expected: سزاوار
+******************************************
+wrong word: منیر
+recommended: منیر
+expected: منبر
+******************************************
+wrong word: چلیا
+recommended: علیا
+expected: چلیپا
+******************************************
+wrong word: شاا
+recommended: شما
+expected: شاها
+******************************************
+wrong word: انر
+recommended: انر
+expected: اندر
+******************************************
+wrong word: یقی
+recommended: یکی
+expected: یقین
+******************************************
+wrong word: ار
+recommended: ار
+expected: او
+******************************************
+wrong word: رستم
+recommended: رستم
+expected: رستمْ
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: سا
+recommended: سا
+expected: سامْ
+******************************************
+wrong word: شاین
+recommended: شاین
+expected: شاهین
+******************************************
+wrong word: اسبأبپ
+recommended: اسباب
+expected: اسباب
+******************************************
+wrong word: هعه
+recommended: همه
+expected: همه
+******************************************
+wrong word: دژٌ
+recommended: دژ
+expected: درّ
+******************************************
+wrong word: خلانش
+recommended: خوانش
+expected: خلافش
+******************************************
+wrong word: چرن
+recommended: چرن
+expected: چون
+******************************************
+wrong word: وندیمان
+recommended: هندیمان
+expected: ندیمان
+******************************************
+wrong word: بُا
+recommended: با
+expected: با
+******************************************
+wrong word: ساه
+recommended: سال
+expected: شاه
+******************************************
+wrong word: میزران
+recommended: میزان
+expected: میزان
+******************************************
+wrong word: شاین
+recommended: شاین
+expected: شاهین
+******************************************
+wrong word: رخارش
+recommended: خارش
+expected: رفتارش
+******************************************
+wrong word: کتد
+recommended: کتد
+expected: کند
+******************************************
+wrong word: نرین
+recommended: نوین
+expected: نسرین
+******************************************
+wrong word: شرق
+recommended: شرق
+expected: شوق
+******************************************
+wrong word: تاز
+recommended: تاز
+expected: تازه
+******************************************
+wrong word: همچرن
+recommended: همچون
+expected: همچون
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: زکریمی
+recommended: کریمی
+expected: کریمی
+******************************************
+wrong word: سُمّرست
+recommended: سُمّرست
+expected: سَمَرست
+******************************************
+wrong word: وان
+recommended: وان
+expected: جوان
+******************************************
+wrong word: و
+recommended: و
+expected: تو
+******************************************
+wrong word: توگویی
+recommended: موگویی
+expected: گویی
+******************************************
+wrong word: زیی
+recommended: زیی
+expected: زبس
+******************************************
+wrong word: جاهکه
+recommended: جاهکی
+expected: جامه
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: آّل
+recommended: آل
+expected: آل
+******************************************
+wrong word: قرام
+recommended: قرار
+expected: قوام
+******************************************
+wrong word: چوئانکه
+recommended: چنانکه
+expected: چونانکه
+******************************************
+wrong word: نعهرت
+recommended: نعرهت
+expected: نصرت
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: سراران
+recommended: سراوان
+expected: سواران
+******************************************
+wrong word: فغل
+recommended: فصل
+expected: فضل
+******************************************
+wrong word: بیهتر
+recommended: بیشتر
+expected: بهتر
+******************************************
+wrong word: اور
+recommended: اور
+expected: او
+******************************************
+wrong word: وگهر
+recommended: گهر
+expected: گهر
+******************************************
+wrong word: نیود
+recommended: نبود
+expected: نبود
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: آّغوشم
+recommended: آغوشم
+expected: آغوشم
+******************************************
+wrong word: گرش
+recommended: گرش
+expected: گوش
+******************************************
+wrong word: نیتیم
+recommended: یتیم
+expected: نیستیم
+******************************************
+wrong word: بیه
+recommended: بیه
+expected: به
+******************************************
+wrong word: صرش
+recommended: صرف
+expected: عرش
+******************************************
+wrong word: معلًا
+recommended: معلا
+expected: معلّا
+******************************************
+wrong word: تلب
+recommended: تلب
+expected: قلب
+******************************************
+wrong word: ذار
+recommended: ذار
+expected: عذار
+******************************************
+wrong word: کمیته
+recommended: کمیته
+expected: کمینه
+******************************************
+wrong word: درقفش
+recommended: درفش
+expected: درفش
+******************************************
+wrong word: کاوریا
+recommended: کوریا
+expected: کاویان
+******************************************
+wrong word: اندیُه
+recommended: اندیشه
+expected: اندیشه
+******************************************
+wrong word: آّن
+recommended: آن
+expected: آن
+******************************************
+wrong word: بومسه
+recommended: بوسه
+expected: بوسه
+******************************************
+wrong word: اّهی
+recommended: الهی
+expected: آهی
+******************************************
+wrong word: گله
+recommended: گله
+expected: گلهٔ
+******************************************
+wrong word: قرر
+recommended: قرر
+expected: فرو
+******************************************
+wrong word: تمکدانی
+recommended: نمکدانی
+expected: نمکدانی
+******************************************
+wrong word: ننشید
+recommended: نشنید
+expected: ننشیند
+******************************************
+wrong word: آّب
+recommended: آب
+expected: آب
+******************************************
+wrong word: بدتی
+recommended: بدنی
+expected: بدنی
+******************************************
+wrong word: شّکّر
+recommended: شکر
+expected: شَکَر
+******************************************
+wrong word: خرش
+recommended: خرش
+expected: خوش
+******************************************
+wrong word: چر
+recommended: چر
+expected: چو
+******************************************
+wrong word: بلیل
+recommended: بلیل
+expected: بلبل
+******************************************
+wrong word: ناله
+recommended: ناله
+expected: نالهٔ
+******************************************
+wrong word: آشایی
+recommended: مشایی
+expected: آشنایی
+******************************************
+wrong word: درلت
+recommended: دولت
+expected: دولت
+******************************************
+wrong word: زرال
+recommended: زوال
+expected: زوال
+******************************************
+wrong word: صومعه
+recommended: صومعه
+expected: صومعهٔ
+******************************************
+wrong word: مم
+recommended: مم
+expected: منم
+******************************************
+wrong word: آّ
+recommended: آن
+expected: آن
+******************************************
+wrong word: محبُت
+recommended: محبت
+expected: محبّت
+******************************************
+wrong word: آشتایی
+recommended: آشنایی
+expected: آشنایی
+******************************************
+wrong word: متیست
+recommended: متدیست
+expected: مستیست
+******************************************
+wrong word: مارف
+recommended: مصرف
+expected: عارف
+******************************************
+wrong word: ر
+recommended: و
+expected: و
+******************************************
+wrong word: اطمینانی۲۱
+recommended: اطمینانی
+expected: اطمینانی
+******************************************
+wrong word: بهطور
+recommended: بهطور
+expected: طور
+******************************************
+wrong word: مریض
+recommended: مریض
+expected: مریضی
+******************************************
+wrong word: تاًکید
+recommended: تاکید
+expected: تأکید
+******************************************
+wrong word: آرین
+recommended: آرین
+expected: آخرین
+******************************************
+wrong word: درصورت
+recommended: درصورت
+expected: صورت
+******************************************
+wrong word: ی
+recommended: ی
+expected: به
+******************************************
+wrong word: واگر
+recommended: اگر
+expected: اگر
+******************************************
+wrong word: درآید
+recommended: درآید
+expected: آید
+******************************************
+wrong word: باعث
+recommended: باعث
+expected: باعت
+******************************************
+wrong word: تقریبا
+recommended: تقریبا
+expected: تقریباً
+******************************************
+wrong word: بهتدریج
+recommended: بهتدریج
+expected: تدریج
+******************************************
+wrong word: شنات
+recommended: شناخت
+expected: شناخت
+******************************************
+wrong word: قرا۱
+recommended: قرار
+expected: قرآن
+******************************************
+wrong word: بیاور
+recommended: بیاور
+expected: بیاورید
+******************************************
+wrong word: آخر
+recommended: آخر
+expected: آخرین
+******************************************
+wrong word: إص
+recommended: نص
+expected: ص
+******************************************
+wrong word: آت
+recommended: آت
+expected: آن
+******************************************
+wrong word: بیاور
+recommended: بیاور
+expected: بیاورید
+******************************************
+wrong word: ید
+recommended: ید
+expected: و
+******************************************
+wrong word: وبعد
+recommended: بعد
+expected: بعد
+******************************************
+wrong word: میگو
+recommended: میگو
+expected: میگوید
+******************************************
+wrong word: بیاور
+recommended: بیاور
+expected: بیاورید
+******************************************
+wrong word: قرآ
+recommended: قرآن
+expected: قرآن
+******************************************
+wrong word: بثشر
+recommended: بشر
+expected: بشر
+******************************************
+wrong word: معجزهٔ
+recommended: معجزه
+expected: معجزه
+******************************************
+wrong word: رآن
+recommended: آن
+expected: قرآن
+******************************************
+wrong word: کتب
+recommended: کتب
+expected: کتاب
+******************************************
+wrong word: ودر
+recommended: در
+expected: در
+******************************************
+wrong word: جنبه
+recommended: جنبه
+expected: جنبهٔ
+******************************************
+wrong word: قرآتن
+recommended: قرآن
+expected: قرآن
+******************************************
+wrong word: صوصاً
+recommended: خصوصاً
+expected: خصوصاً
+******************************************
+wrong word: مخصوصاٌ
+recommended: مخصوصا
+expected: مخصوصاً
+******************************************
+wrong word: داشتّه
+recommended: داشته
+expected: داشته
+******************************************
+wrong word: ترآن
+recommended: قرآن
+expected: قرآن
+******************************************
+wrong word: نفصاحت
+recommended: فصاحت
+expected: فصاحت
+******************************************
+wrong word: عر
+recommended: عر
+expected: که
+******************************************
+wrong word: بهای
+recommended: برای
+expected: عربهای
+******************************************
+wrong word: وتا
+recommended: تا
+expected: تا
+******************************************
+wrong word: هر
+recommended: هر
+expected: بی
+******************************************
+wrong word: بیعدالتی
+recommended: بیعدالتی
+expected: عدالتی
+******************************************
+wrong word: داردکه
+recommended: داردره
+expected: دارد
+******************************************
+wrong word: بکنیدکه
+recommended: بکنید
+expected: بکنید
+******************************************
+wrong word: اشاره
+recommended: اشاره
+expected: اشارهٔ
+******************************************
+wrong word: ازیک
+recommended: اریک
+expected: یک
+******************************************
+wrong word: ونیز
+recommended: ونیز
+expected: نیز
+******************************************
+wrong word: حاضر
+recommended: حاضر
+expected: حال
+******************************************
+wrong word: از
+recommended: از
+expected: بر
+******************************************
+wrong word: برکتاب
+recommended: سرکتاب
+expected: کتاب
+******************************************
+wrong word: که
+recommended: که
+expected: در
+******************************************
+wrong word: درمتن
+recommended: درمان
+expected: متن
+******************************************
+wrong word: صحیه
+recommended: صحیه
+expected: صحیهٔ
+******************************************
+wrong word: مملّکتی
+recommended: مملکتی
+expected: مملکتی
+******************************************
+wrong word: دوره
+recommended: دوره
+expected: دورهٔ
+******************************************
+wrong word: گردریده
+recommended: گردیده
+expected: گردیده
+******************************************
+wrong word: تماما
+recommended: تماما
+expected: تماماً
+******************************************
+wrong word: پس
+recommended: پس
+expected: است
+******************************************
+wrong word: درخصوص
+recommended: برخصوص
+expected: خصوص
+******************************************
+wrong word: تعرف
+recommended: تعرف
+expected: تعریف
+******************************************
+wrong word: و
+recommended: و
+expected: به
+******************************************
+wrong word: بهعبارت
+recommended: بعبارت
+expected: عبارت
+******************************************
+wrong word: مقدمه
+recommended: مقدمه
+expected: مقدمهٔ
+******************************************
+wrong word: ویا
+recommended: وی
+expected: یا
+******************************************
+wrong word: وحکم
+recommended: حکم
+expected: حکم
+******************************************
+wrong word: برمجلدات
+recommended: مجلدات
+expected: مجلدات
+******************************************
+wrong word: چهارگا
+recommended: چهارتا
+expected: چهارگانه
+******************************************
+wrong word: اینّکه
+recommended: اینکه
+expected: اینکه
+******************************************
+wrong word: همه
+recommended: همه
+expected: همهٔ
+******************************************
+wrong word: مقدمه
+recommended: مقدمه
+expected: مقدمهٔ
+******************************************
+wrong word: ونیز
+recommended: ونیز
+expected: نیز
+******************************************
+wrong word: رشته
+recommended: رشته
+expected: رشتهٔ
+******************************************
+wrong word: مخصوص
+recommended: مخصوص
+expected: مخصوصی
+******************************************
+wrong word: مقید
+recommended: مقید
+expected: مفید
+******************************************
+wrong word: مغتنم
+recommended: مغتنم
+expected: مغتنام
+******************************************
+wrong word: که
+recommended: که
+expected: -
+******************************************
+wrong word: بیسود
+recommended: بیسواد
+expected: سود
+******************************************
+wrong word: تهیه
+recommended: تهیه
+expected: تهیهٔ
+******************************************
+wrong word: رانشان
+recommended: رانشان
+expected: نشان
+******************************************
+wrong word: میدهدً
+recommended: میدهد
+expected: میدهد
+******************************************
+wrong word: مینوید
+recommended: میگوید
+expected: مینویسد
+******************************************
+wrong word: صضبط
+recommended: ضبط
+expected: ضبط
+******************************************
+wrong word: نّه
+recommended: نه
+expected: نه
+******************************************
+wrong word: عّووم
+recommended: علوم
+expected: عووم
+******************************************
+wrong word: نْتنگی
+recommended: تنگی
+expected: نتنگی
+******************************************
+evaluation finished: 
+number of correction: 1720
+number of good correction: 340
+number of bad correction: 1380
+percentage: %19.767441860465116

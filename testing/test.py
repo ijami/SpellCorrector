@@ -6,6 +6,7 @@ def test(corrector):
     wrong_base_bath = "data/benchmark/test/w/"
     sum = 0
     good = 0
+    file = open("test_results.txt", 'w')
     correct_files_name = os.listdir(correct_base_path)
     for correct_file_name in correct_files_name:
         wrong_file_name = "w" + correct_file_name[1:]
@@ -20,14 +21,14 @@ def test(corrector):
                     continue
                 correct = corrector.correct(wrong_words[j])
                 sum += 1
-                print("wrong word: " + wrong_words[j])
-                print("recommended: " + correct)
-                print("expected: " + correct_words[j])
-                print("******************************************")
+                file.write("wrong word: " + wrong_words[j] + "\n")
+                file.write("recommended: " + correct + "\n")
+                file.write("expected: " + correct_words[j] + "\n")
+                file.write("******************************************\n")
                 if correct == correct_words[j]:
                     good += 1
-    print("evaluation finished: ")
-    print("number of correction: " + str(sum))
-    print("number of good correction: " + str(good))
-    print("number of bad correction: " + str(sum - good))
-    print("percentage: %" + str(100.0 * good / sum))
+    file.write("evaluation finished: \n")
+    file.write("number of correction: " + str(sum) + "\n")
+    file.write("number of good correction: " + str(good) + "\n")
+    file.write("number of bad correction: " + str(sum - good) + "\n")
+    file.write("percentage: %" + str(100.0 * good / sum) + "\n")
